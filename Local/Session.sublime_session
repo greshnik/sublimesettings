@@ -1,0 +1,2459 @@
+{
+	"folder_history":
+	[
+		"/home/greshnik/mailer-html",
+		"/home/greshnik/projects/netcatadmin",
+		"/home/greshnik/projects/btrxtogoogle",
+		"/home/greshnik/projects/regiontable",
+		"/var/www/netcat",
+		"/home/greshnik/projects/dayzcheat",
+		"/home/greshnik/tmp/dle",
+		"/home/greshnik/projects/ymap",
+		"/var/www/vhosts/kalim.dev/www",
+		"/var/www/netcat/vk",
+		"/home/greshnik/projects/sails/mysquad/mysquad",
+		"/var/www/odesk/app",
+		"/home/greshnik/tmp/vikavto",
+		"/home/greshnik/tmp/vikavto/final",
+		"/home/greshnik/tmp/3live",
+		"/home/greshnik/tmp/generator",
+		"/var/www/mailer",
+		"/home/greshnik/projects/embed2/embed",
+		"/home/greshnik/tmp/btrx/templates",
+		"/home/greshnik/tmp/btrx/secondtemplate",
+		"/home/greshnik/projects/embed/embed",
+		"/home/greshnik/embed",
+		"/home/greshnik/projects/vikavto",
+		"/var/www/1001dress/1001v2",
+		"/home/greshnik/projects/bitbucket/geshnow_backend",
+		"/home/greshnik/projects/geshnow",
+		"/var/www/mrshark",
+		"/home/greshnik/projects/test",
+		"/home/greshnik/tmp/yandex-php-library-master",
+		"/home/greshnik/projects/social_player",
+		"/var/www/tvridika",
+		"/home/greshnik/sailsapp/find_partner",
+		"/var/www/damdelo",
+		"/var/www/damdelo/www",
+		"/home/greshnik/tmp/studio7_ss",
+		"/home/greshnik/tmp/element",
+		"/home/greshnik/tmp/catalog.element",
+		"/home/greshnik/tmp/mrandom.com",
+		"/var/www/dispart/protected/modules/project/models",
+		"/var/www/dispart",
+		"/home/greshnik/dayz_epoch/server",
+		"/home/greshnik/sailsapp/social_auth/tree",
+		"/home/greshnik/sailsapp/social_auth/social_auth",
+		"/home/greshnik/sailsapp/social_auth/two",
+		"/home/greshnik/sailsapp/taskmngr",
+		"/var/www/site",
+		"/var/www/bitrix/elbor",
+		"/home/greshnik/projects/40tms/rielt_agency",
+		"/var/www/bitrix/aidentika",
+		"/var/www/bitrix/aidentika/static",
+		"/var/www/bitrix/aidentika/bitrix/templates/aidentica/js",
+		"/var/www/yii2/raga",
+		"/var/www/bitrix/elbor/trunk",
+		"/home/greshnik/python/pizza/pizza",
+		"/home/greshnik/python/pizza",
+		"/var/www/bitrix_work/elbor/trunk",
+		"/home/greshnik/bitrix_work/elbor",
+		"/home/greshnik/py_virtual_envs/photohost/photohost",
+		"/home/greshnik/ro_server",
+		"/home/greshnik/node/ffmpeg",
+		"/home/greshnik/backbone",
+		"/home/greshnik/nodewebkit/poster",
+		"/var/www/crm",
+		"/home/greshnik/sailsapp/demo",
+		"/home/greshnik/tt/rielt",
+		"/home/greshnik/Рабочий стол/Разкодить"
+	],
+	"last_version": 3083,
+	"last_window_id": 107,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"acc",
+						"access_token"
+					],
+					[
+						"auth",
+						"$auth〔variable〕"
+					],
+					[
+						"G",
+						"GoogleDrive"
+					],
+					[
+						"cli",
+						"client"
+					],
+					[
+						"client",
+						"client_id"
+					],
+					[
+						"are",
+						"areas"
+					],
+					[
+						"pare",
+						"parseInt〔function〕"
+					],
+					[
+						"data",
+						"dataMap"
+					],
+					[
+						"nem",
+						"names"
+					],
+					[
+						"my",
+						"myMap"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"file",
+						"file_put_contents"
+					],
+					[
+						"s",
+						"sections"
+					],
+					[
+						"tabl",
+						"tableData"
+					],
+					[
+						"only",
+						"onlyTable"
+					],
+					[
+						"item",
+						"itemValue"
+					],
+					[
+						"re",
+						"results"
+					],
+					[
+						"goog",
+						"googleChart"
+					],
+					[
+						"qu",
+						"queryClauses"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"pro",
+						"profile"
+					],
+					[
+						"game",
+						"gameId"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"loca",
+						"localFile"
+					],
+					[
+						"new",
+						"newsletter"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"php",
+						"phpinfo"
+					],
+					[
+						"mail",
+						"mailNewsletter"
+					],
+					[
+						"Es",
+						"EstateObject"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"orde",
+						"ordererId"
+					],
+					[
+						"find",
+						"findByPk"
+					],
+					[
+						"or",
+						"order"
+					],
+					[
+						"exe",
+						"executor"
+					],
+					[
+						"order",
+						"orderId"
+					],
+					[
+						"ap",
+						"approve"
+					],
+					[
+						"ads",
+						"adsName"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"Ads",
+						"AdsNetwork"
+					],
+					[
+						"req",
+						"require_once"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"coun",
+						"countRuleTypes"
+					],
+					[
+						"produc",
+						"product"
+					],
+					[
+						"co",
+						"cost"
+					],
+					[
+						"Comm",
+						"CommandManager"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"eve",
+						"event_filter"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"glo",
+						"global"
+					],
+					[
+						"ar",
+						"arElem"
+					],
+					[
+						"pr",
+						"printf"
+					],
+					[
+						"arr",
+						"arrFilter"
+					],
+					[
+						"usre",
+						"userName"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"n",
+						"inherit"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"histor",
+						"HistorySlider"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"bor",
+						"border-left"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"post",
+						"postIds"
+					],
+					[
+						"a",
+						"array	$… = array (…)"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"hot",
+						"hotNew"
+					],
+					[
+						"group",
+						"groupId"
+					],
+					[
+						"paddin",
+						"padding-top"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"resolve",
+						"path.resolve();"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"app",
+						"Application"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "php",
+				"selected_items":
+				[
+					[
+						"php",
+						"SublimeREPL: PHP"
+					],
+					[
+						"js",
+						"Javascript Beautify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add..."
+					],
+					[
+						"git ocmm",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"git diff",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"js ",
+						"Javascript Beautify"
+					],
+					[
+						"update",
+						"SVN: Update"
+					],
+					[
+						"commi",
+						"SVN: Commit…"
+					],
+					[
+						"svn update",
+						"SVN: Update"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"com",
+						"SVN: Commit…"
+					],
+					[
+						"commit",
+						"SVN: Commit…"
+					],
+					[
+						"updat",
+						"SVN: Update"
+					],
+					[
+						"java",
+						"Javascript Beautify"
+					],
+					[
+						"reveal",
+						"File: Reveal"
+					],
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ejs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"instak",
+						"Package Control: Install Package"
+					],
+					[
+						"packe",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"reveal_in_side_bar",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/tmp/fz3temp-1/index.php",
+				"/tmp/fz3temp-1/component.php",
+				"/home/greshnik/projects/netcatadmin/reposter/config.php",
+				"/tmp/fz3temp-1/cron.php",
+				"/home/greshnik/projects/netcatadmin/reposter/authfb.php",
+				"/tmp/fz3temp-1/config.php",
+				"/tmp/fz3temp-1/config 2.php",
+				"/home/greshnik/projects/netcatadmin/reposter/index.php",
+				"/var/www/netcat/netcat/admin/lang/Russian_utf8.php",
+				"/var/www/netcat/vars.inc.php",
+				"/var/www/netcat/netcat/admin/js/main.js",
+				"/var/www/netcat/netcat/admin/widget/function.inc.php",
+				"/var/www/netcat/netcat/modules/default/my.php",
+				"/home/greshnik/projects/dayzcheat/main.js",
+				"/home/greshnik/projects/dayzcheat/common-script.js",
+				"/tmp/fz3temp-1/back.php",
+				"/var/www/netcat/reposter/vk/VKException.php",
+				"/var/www/netcat/reposter/config.php",
+				"/var/www/netcat/sftp-config.json",
+				"/var/www/netcat/reposter/token",
+				"/var/www/netcat/config.php",
+				"/var/www/netcat/index.php",
+				"/var/www/netcat/auth.php",
+				"/var/www/netcat/vk/VKException.php",
+				"/var/www/netcat/token",
+				"/var/www/netcat/vk/config.php",
+				"/tmp/fz3temp-1/template.php",
+				"/tmp/fz3temp-1/template 3.php",
+				"/tmp/fz3temp-1/index 2.php",
+				"/tmp/fz3temp-1/index 3.php",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/greshnik/.config/sublime-text-3/Packages/Git Conflict Resolver/GitConflictResolver.sublime-settings",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/policies.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/sessionAuth.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Games.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/models.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/views/main/index.ejs",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/strategy.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/steam-web/lib/steam.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/views/auth/login.ejs",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/routes.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/connections.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/grunt-sails-linker/test/scriptlinker_test.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/session.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/User.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/index.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/bootstrap.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/oauth2.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/openid.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/controllers/AuthController.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/.gitkeep",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-twitter/lib/errors/apierror.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/pkginfo/examples/all-properties.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/app.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails-generate-auth/templates/api/services/passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/express/node_modules/connect/node_modules/serve-index/node_modules/accepts/node_modules/mime-types/package.json",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/prompt/node_modules/revalidator/example/webservice.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/responses/serverError.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/sails-hook-sockets/lib/prepare-adapter.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/package.json",
+				"/tmp/fz3temp-1/log",
+				"/tmp/fz3temp-1/lendings 2.csv",
+				"/tmp/fz3temp-1/lendings.csv",
+				"/var/www/mailer/jsonp/landing.php",
+				"/tmp/fz3temp-1/affiliate_panel.php",
+				"/tmp/fz3temp-1/babyliss.tpl",
+				"/tmp/fz3temp-1/smarty_internal_write_file.php",
+				"/tmp/fz3temp-1/index-2.tpl",
+				"/tmp/fz3temp-1/index.tpl",
+				"/tmp/fz3temp-1/landing.php",
+				"/tmp/fz3temp-1/log02.16.2015.15.csv",
+				"/tmp/fz3temp-1/1c_exchange.php",
+				"/tmp/fz3temp-1/orders-001aed75-640a-482a-acb6-6da0b5ab62ed.xml",
+				"/tmp/fz3temp-1/path_to_metrika.php",
+				"/tmp/fz3temp-1/main.js",
+				"/tmp/fz3temp-1/log02.11.2015.csv",
+				"/tmp/fz3temp-1/log.csv",
+				"/tmp/fz3temp-1/log02.07.2015.csv",
+				"/tmp/fz3temp-1/chasy-ferrary.tpl",
+				"/tmp/fz3temp-1/affiliate_class.php",
+				"/tmp/fz3temp-1/resize.php",
+				"/var/www/mailer/cron3.php",
+				"/var/www/mailer/cron2.php",
+				"/var/www/mailer/newsletter.php",
+				"/var/www/mailer/js/main.js",
+				"/var/www/mailer/editnewsletter.php",
+				"/var/www/mailer/classes/functions.php",
+				"/var/www/mailer/test2.php",
+				"/var/www/mailer/jsonp/script.js",
+				"/tmp/fz3temp-1/IndexAdmin.php",
+				"/var/www/mailer/files/landing.csv",
+				"/var/www/mailer/classes/api-email.php",
+				"/var/www/mailer/cron.php",
+				"/tmp/fz3temp-1/Report.php",
+				"/tmp/fz3temp-1/admin.php",
+				"/tmp/fz3temp-1/FormatHelper.php",
+				"/tmp/fz3temp-1/cron2.php",
+				"/tmp/fz3temp-1/EstateobjectController.php",
+				"/tmp/fz3temp-1/EstateObject.php",
+				"/tmp/fz3temp-1/ReportController.php",
+				"/tmp/fz3temp-1/cron3.php",
+				"/tmp/fz3temp-1/nginx.conf",
+				"/home/greshnik/tmp/mrandom.com/config/config.js",
+				"/home/greshnik/tmp/mrandom.com/node-mrandom.com",
+				"/home/greshnik/tmp/mrandom.com/models/Taxonomy.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/lib/reporters/json-stream.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/node_modules/.bin/jade",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/tablenew.ect",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/allnew.ect",
+				"/home/greshnik/tmp/mrandom.com/controllers/contest/index.js",
+				"/home/greshnik/tmp/mrandom.com/controllers/notification/index.js",
+				"/home/greshnik/tmp/mrandom.com/models/Notification.js",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/table.ect",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/all.ect",
+				"/home/greshnik/tmp/mrandom.com/app.js",
+				"/home/greshnik/tmp/mrandom.com/models/Contest.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly-tests.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly.html",
+				"/tmp/fz3temp-1/index.js",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/comment/list.ect",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/single.ect",
+				"/tmp/fz3temp-1/winners.ect",
+				"/home/greshnik/temp.php",
+				"/tmp/fz3temp-1/readme.txt",
+				"/tmp/fz3temp-1/uploadify_wp.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"-*node_modules*",
+					"-/home/greshnik/sailsapp/demo/node_modules",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"$event->Send",
+					"send",
+					"$service",
+					"class=\"nc_row\"",
+					"f_Priority",
+					"NETCAT_MODERATION_INFO_REQFIELDS",
+					"Звездочкой (*) отмечены поля, обязательные для заполнения.",
+					"<li class=\"button_on\" id=\"nc_show_main\" onclick=\"return false;\">Основное</li>",
+					"drawnPolygonEventsGeometryChange",
+					"resetPolygonDrawing",
+					"addPolygonOnMap",
+					"saveData",
+					"addPolygonOnMap",
+					"#save",
+					"map",
+					"UpdateClearButton",
+					"GDouglasPeucker",
+					".png",
+					"mapInit",
+					"http",
+					"callMethod",
+					"checkAccessToken",
+					"VKEx",
+					"id=\"request-a-call\"",
+					");\n",
+					"tableOptions",
+					"id=\"date-range-select\"",
+					"date-range-select",
+					"left-axis-metrics",
+					"console.log",
+					"console",
+					"сравнить",
+					"compare-box",
+					"localMetrics",
+					"getDateRange",
+					"download",
+					"ISteamNews",
+					"getOwnedGames",
+					"GetOwnedGames",
+					" username nor email was available",
+					"Error: Neither a username nor email was available",
+					"RememberMeStrategy",
+					"console.log",
+					"passport.connect",
+					"connect",
+					"AuthController",
+					"passport.use",
+					"asdbogch",
+					"Empty private",
+					"sale",
+					"success",
+					"ons",
+					"Письмо открыто",
+					"BASE_URL",
+					"Empty private key",
+					"listmailers",
+					"model",
+					"redirectPhp",
+					"getPagination",
+					"listMy",
+					"my/",
+					"memory_cache",
+					"cache",
+					"showOldById",
+					"ContestMysql",
+					"logg",
+					"playContest",
+					"logger",
+					"ect_watch",
+					"env",
+					"development",
+					"playContest",
+					"showWinnersById",
+					"type",
+					"Contest.count",
+					"count",
+					"Taxonomy",
+					"showAll",
+					"showById",
+					"contest/all",
+					"showAllNew",
+					"showAll",
+					"Конкурс еще не",
+					"showWinnersById",
+					"showById",
+					"/contest/",
+					"echo",
+					"Contest.find",
+					".find",
+					"showWinnersById",
+					"winners",
+					"execu",
+					"function isManag",
+					"isManager",
+					"шыЬфтфпук",
+					"edit",
+					"id=\"mainMbMenu\"",
+					"table",
+					"getUserId",
+					"getUser",
+					"project.*",
+					"project.zakaz",
+					"modules.project",
+					"fbf2fb988cdf413b8e5b32ba208464e2",
+					"fn_selfActions.sqf",
+					"dayzPlayerLogin2 = [_worldspace,_state];",
+					"_randomSpot",
+					"dayz_recordLogin",
+					"DefaultBackpack",
+					"DefaultWeapons",
+					"DefaultMagazines",
+					"dayz_paraSpawn",
+					"dayz_spawnselection",
+					"VM",
+					"preProcessFileLineNumbers",
+					"migrate:",
+					"h1",
+					"Персональные данные",
+					"<p>Персональные данные</p>",
+					"panelButtonMessageCount",
+					"style=\"height: 27px;\"",
+					"personal.friends_online",
+					"<p>Профиль</p>",
+					"Игровая почта",
+					"class=\"profile_avatar\"",
+					"profile_mail",
+					"IS_UNREAD_COUNT",
+					"socialnetwork.user_friends"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 690.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"vars",
+						"vars.inc.php"
+					],
+					[
+						"styles",
+						"assets/styles/styles.css"
+					],
+					[
+						"api/ser",
+						"api/services/passport.js"
+					],
+					[
+						"services/passport",
+						"node_modules/sails-generate-auth/templates/api/services/passport.js"
+					],
+					[
+						"notifi",
+						"models/Notification.js"
+					],
+					[
+						"zakaz",
+						"protected/modules/project/controllers/ZakazController.php"
+					],
+					[
+						"fn_selfactions.sqf",
+						"temp/dayz_code/compile/fn_selfActions.sqf"
+					],
+					[
+						"send_and",
+						"bitrix/templates/aidentica/components/games/postman/.default/send_and_check.php"
+					],
+					[
+						"user_action",
+						"bitrix/php_interface/include/identica_api/user_action.php"
+					],
+					[
+						"jquery.incrementbox.js",
+						"bitrix/templates/aidentica/js/jquery.IncrementBox.js"
+					],
+					[
+						"partner",
+						"bitrix/templates/aidentica/css/partner.css"
+					],
+					[
+						"visit_brandjs",
+						"bitrix/templates/aidentica/components/games/visit_brand/.default/script.js"
+					],
+					[
+						"partner.css",
+						"bitrix/templates/aidentica/css/partner.css"
+					],
+					[
+						"style.css",
+						"templates/common/css/style.css"
+					],
+					[
+						"repo",
+						"protected/models/Report.php"
+					],
+					[
+						"mess",
+						"protected/models/Messages.php"
+					],
+					[
+						"studen",
+						"protected/controllers/StudentController.php"
+					],
+					[
+						"stud",
+						"protected/models/Student.php"
+					],
+					[
+						"group",
+						"protected/controllers/GroupController.php"
+					],
+					[
+						"goup",
+						"protected/controllers/GroupController.php"
+					],
+					[
+						"stude",
+						"protected/models/Student.php"
+					],
+					[
+						"hotnew",
+						"protected/models/HotNews.php"
+					],
+					[
+						"alltest",
+						"protected/views/group/viewAllTests.php"
+					],
+					[
+						"viewall",
+						"protected/views/group/viewAllTruancy.php"
+					],
+					[
+						"lay",
+						"views/layout.ejs"
+					],
+					[
+						"login",
+						"views/user/loginform.ejs"
+					],
+					[
+						"view/lay",
+						"views/layout.ejs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 285.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"AU.file"
+					]
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 290.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"auth",
+						"$auth〔variable〕"
+					],
+					[
+						"G",
+						"GoogleDrive"
+					],
+					[
+						"cli",
+						"client"
+					],
+					[
+						"client",
+						"client_id"
+					],
+					[
+						"are",
+						"areas"
+					],
+					[
+						"pare",
+						"parseInt〔function〕"
+					],
+					[
+						"data",
+						"dataMap"
+					],
+					[
+						"nem",
+						"names"
+					],
+					[
+						"my",
+						"myMap"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"file",
+						"file_put_contents"
+					],
+					[
+						"s",
+						"sections"
+					],
+					[
+						"tabl",
+						"tableData"
+					],
+					[
+						"only",
+						"onlyTable"
+					],
+					[
+						"item",
+						"itemValue"
+					],
+					[
+						"re",
+						"results"
+					],
+					[
+						"goog",
+						"googleChart"
+					],
+					[
+						"qu",
+						"queryClauses"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"pro",
+						"profile"
+					],
+					[
+						"game",
+						"gameId"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"loca",
+						"localFile"
+					],
+					[
+						"new",
+						"newsletter"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"php",
+						"phpinfo"
+					],
+					[
+						"mail",
+						"mailNewsletter"
+					],
+					[
+						"Es",
+						"EstateObject"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"orde",
+						"ordererId"
+					],
+					[
+						"find",
+						"findByPk"
+					],
+					[
+						"or",
+						"order"
+					],
+					[
+						"exe",
+						"executor"
+					],
+					[
+						"order",
+						"orderId"
+					],
+					[
+						"ap",
+						"approve"
+					],
+					[
+						"ads",
+						"adsName"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"Ads",
+						"AdsNetwork"
+					],
+					[
+						"req",
+						"require_once"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"coun",
+						"countRuleTypes"
+					],
+					[
+						"produc",
+						"product"
+					],
+					[
+						"co",
+						"cost"
+					],
+					[
+						"Comm",
+						"CommandManager"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"eve",
+						"event_filter"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"glo",
+						"global"
+					],
+					[
+						"ar",
+						"arElem"
+					],
+					[
+						"pr",
+						"printf"
+					],
+					[
+						"arr",
+						"arrFilter"
+					],
+					[
+						"usre",
+						"userName"
+					],
+					[
+						"end",
+						"endif"
+					],
+					[
+						"n",
+						"inherit"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"histor",
+						"HistorySlider"
+					],
+					[
+						"res",
+						"response"
+					],
+					[
+						"bor",
+						"border-left"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"post",
+						"postIds"
+					],
+					[
+						"a",
+						"array	$… = array (…)"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"hot",
+						"hotNew"
+					],
+					[
+						"group",
+						"groupId"
+					],
+					[
+						"paddin",
+						"padding-top"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"resolve",
+						"path.resolve();"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"app",
+						"Application"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/greshnik/projects/btrxtogoogle/index.php",
+					"settings":
+					{
+						"buffer_size": 2031,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/greshnik/projects/btrxtogoogle/authbtrx.php",
+					"settings":
+					{
+						"buffer_size": 594,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/greshnik/projects/btrxtogoogle/test.php",
+					"settings":
+					{
+						"buffer_size": 764,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/greshnik/projects/btrxtogoogle/composer.json",
+					"settings":
+					{
+						"buffer_size": 75,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/greshnik/projects/btrxtogoogle/test.txt",
+					"settings":
+					{
+						"buffer_size": 7,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "php",
+				"selected_items":
+				[
+					[
+						"php",
+						"SublimeREPL: PHP"
+					],
+					[
+						"js",
+						"Javascript Beautify"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add..."
+					],
+					[
+						"git ocmm",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"git diff",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"js ",
+						"Javascript Beautify"
+					],
+					[
+						"update",
+						"SVN: Update"
+					],
+					[
+						"commi",
+						"SVN: Commit…"
+					],
+					[
+						"svn update",
+						"SVN: Update"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"com",
+						"SVN: Commit…"
+					],
+					[
+						"commit",
+						"SVN: Commit…"
+					],
+					[
+						"updat",
+						"SVN: Update"
+					],
+					[
+						"java",
+						"Javascript Beautify"
+					],
+					[
+						"reveal",
+						"File: Reveal"
+					],
+					[
+						"git",
+						"Git: Init"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ejs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"instak",
+						"Package Control: Install Package"
+					],
+					[
+						"packe",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"reveal_in_side_bar",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/greshnik/projects/btrxtogoogle",
+				"/home/greshnik/projects/btrxtogoogle/vendor"
+			],
+			"file_history":
+			[
+				"/tmp/fz3temp-1/auth.php",
+				"/var/www/netcat/netcat/admin/lang/Russian_utf8.php",
+				"/var/www/netcat/vars.inc.php",
+				"/var/www/netcat/netcat/admin/js/main.js",
+				"/var/www/netcat/netcat/admin/widget/function.inc.php",
+				"/var/www/netcat/netcat/modules/default/my.php",
+				"/home/greshnik/projects/dayzcheat/main.js",
+				"/home/greshnik/projects/dayzcheat/common-script.js",
+				"/tmp/fz3temp-1/back.php",
+				"/var/www/netcat/reposter/vk/VKException.php",
+				"/var/www/netcat/reposter/config.php",
+				"/var/www/netcat/sftp-config.json",
+				"/var/www/netcat/reposter/token",
+				"/tmp/fz3temp-1/index.php",
+				"/var/www/netcat/config.php",
+				"/var/www/netcat/index.php",
+				"/var/www/netcat/auth.php",
+				"/var/www/netcat/vk/VKException.php",
+				"/var/www/netcat/token",
+				"/var/www/netcat/vk/config.php",
+				"/tmp/fz3temp-1/template.php",
+				"/tmp/fz3temp-1/template 3.php",
+				"/tmp/fz3temp-1/component.php",
+				"/tmp/fz3temp-1/index 2.php",
+				"/tmp/fz3temp-1/index 3.php",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/greshnik/.config/sublime-text-3/Packages/Git Conflict Resolver/GitConflictResolver.sublime-settings",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/policies.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/sessionAuth.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Games.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/models.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/views/main/index.ejs",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/strategy.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/steam-web/lib/steam.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/views/auth/login.ejs",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/routes.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/connections.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/grunt-sails-linker/test/scriptlinker_test.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/session.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/User.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/index.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/config/bootstrap.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/oauth2.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/openid.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/controllers/AuthController.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/.gitkeep",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-twitter/lib/errors/apierror.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/pkginfo/examples/all-properties.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/app.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails-generate-auth/templates/api/services/passport.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/express/node_modules/connect/node_modules/serve-index/node_modules/accepts/node_modules/mime-types/package.json",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/prompt/node_modules/revalidator/example/webservice.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/api/responses/serverError.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/sails-hook-sockets/lib/prepare-adapter.js",
+				"/home/greshnik/projects/sails/mysquad/mysquad/package.json",
+				"/tmp/fz3temp-1/log",
+				"/tmp/fz3temp-1/config.php",
+				"/tmp/fz3temp-1/lendings 2.csv",
+				"/tmp/fz3temp-1/lendings.csv",
+				"/var/www/mailer/jsonp/landing.php",
+				"/tmp/fz3temp-1/affiliate_panel.php",
+				"/tmp/fz3temp-1/babyliss.tpl",
+				"/tmp/fz3temp-1/smarty_internal_write_file.php",
+				"/tmp/fz3temp-1/index-2.tpl",
+				"/tmp/fz3temp-1/index.tpl",
+				"/tmp/fz3temp-1/cron.php",
+				"/tmp/fz3temp-1/landing.php",
+				"/tmp/fz3temp-1/log02.16.2015.15.csv",
+				"/tmp/fz3temp-1/1c_exchange.php",
+				"/tmp/fz3temp-1/orders-001aed75-640a-482a-acb6-6da0b5ab62ed.xml",
+				"/tmp/fz3temp-1/path_to_metrika.php",
+				"/tmp/fz3temp-1/main.js",
+				"/tmp/fz3temp-1/log02.11.2015.csv",
+				"/tmp/fz3temp-1/log.csv",
+				"/tmp/fz3temp-1/log02.07.2015.csv",
+				"/tmp/fz3temp-1/chasy-ferrary.tpl",
+				"/tmp/fz3temp-1/affiliate_class.php",
+				"/tmp/fz3temp-1/resize.php",
+				"/var/www/mailer/cron3.php",
+				"/var/www/mailer/cron2.php",
+				"/var/www/mailer/newsletter.php",
+				"/var/www/mailer/js/main.js",
+				"/var/www/mailer/editnewsletter.php",
+				"/var/www/mailer/classes/functions.php",
+				"/var/www/mailer/test2.php",
+				"/var/www/mailer/jsonp/script.js",
+				"/tmp/fz3temp-1/IndexAdmin.php",
+				"/var/www/mailer/files/landing.csv",
+				"/var/www/mailer/classes/api-email.php",
+				"/var/www/mailer/cron.php",
+				"/tmp/fz3temp-1/Report.php",
+				"/tmp/fz3temp-1/admin.php",
+				"/tmp/fz3temp-1/FormatHelper.php",
+				"/tmp/fz3temp-1/cron2.php",
+				"/tmp/fz3temp-1/EstateobjectController.php",
+				"/tmp/fz3temp-1/EstateObject.php",
+				"/tmp/fz3temp-1/ReportController.php",
+				"/tmp/fz3temp-1/cron3.php",
+				"/tmp/fz3temp-1/nginx.conf",
+				"/home/greshnik/tmp/mrandom.com/config/config.js",
+				"/home/greshnik/tmp/mrandom.com/node-mrandom.com",
+				"/home/greshnik/tmp/mrandom.com/models/Taxonomy.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/lib/reporters/json-stream.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/node_modules/.bin/jade",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/tablenew.ect",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/allnew.ect",
+				"/home/greshnik/tmp/mrandom.com/controllers/contest/index.js",
+				"/home/greshnik/tmp/mrandom.com/controllers/notification/index.js",
+				"/home/greshnik/tmp/mrandom.com/models/Notification.js",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/table.ect",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/all.ect",
+				"/home/greshnik/tmp/mrandom.com/app.js",
+				"/home/greshnik/tmp/mrandom.com/models/Contest.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly-tests.js",
+				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly.html",
+				"/tmp/fz3temp-1/index.js",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/comment/list.ect",
+				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/single.ect",
+				"/tmp/fz3temp-1/winners.ect",
+				"/home/greshnik/temp.php",
+				"/tmp/fz3temp-1/readme.txt",
+				"/tmp/fz3temp-1/uploadify_wp.php",
+				"/tmp/fz3temp-1/create.ect",
+				"/tmp/fz3temp-1/actionads.php",
+				"/tmp/fz3temp-1/acceptads.php"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"-*node_modules*",
+					"-/home/greshnik/sailsapp/demo/node_modules",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"$service",
+					"class=\"nc_row\"",
+					"f_Priority",
+					"NETCAT_MODERATION_INFO_REQFIELDS",
+					"Звездочкой (*) отмечены поля, обязательные для заполнения.",
+					"<li class=\"button_on\" id=\"nc_show_main\" onclick=\"return false;\">Основное</li>",
+					"drawnPolygonEventsGeometryChange",
+					"resetPolygonDrawing",
+					"addPolygonOnMap",
+					"saveData",
+					"addPolygonOnMap",
+					"#save",
+					"map",
+					"UpdateClearButton",
+					"GDouglasPeucker",
+					".png",
+					"mapInit",
+					"http",
+					"callMethod",
+					"checkAccessToken",
+					"VKEx",
+					"id=\"request-a-call\"",
+					");\n",
+					"tableOptions",
+					"id=\"date-range-select\"",
+					"date-range-select",
+					"left-axis-metrics",
+					"console.log",
+					"console",
+					"сравнить",
+					"compare-box",
+					"localMetrics",
+					"getDateRange",
+					"download",
+					"ISteamNews",
+					"getOwnedGames",
+					"GetOwnedGames",
+					" username nor email was available",
+					"Error: Neither a username nor email was available",
+					"RememberMeStrategy",
+					"console.log",
+					"passport.connect",
+					"connect",
+					"AuthController",
+					"passport.use",
+					"asdbogch",
+					"Empty private",
+					"sale",
+					"success",
+					"ons",
+					"Письмо открыто",
+					"BASE_URL",
+					"Empty private key",
+					"listmailers",
+					"model",
+					"redirectPhp",
+					"getPagination",
+					"listMy",
+					"my/",
+					"memory_cache",
+					"cache",
+					"showOldById",
+					"ContestMysql",
+					"logg",
+					"playContest",
+					"logger",
+					"ect_watch",
+					"env",
+					"development",
+					"playContest",
+					"showWinnersById",
+					"type",
+					"Contest.count",
+					"count",
+					"Taxonomy",
+					"showAll",
+					"showById",
+					"contest/all",
+					"showAllNew",
+					"showAll",
+					"Конкурс еще не",
+					"showWinnersById",
+					"showById",
+					"/contest/",
+					"echo",
+					"Contest.find",
+					".find",
+					"showWinnersById",
+					"winners",
+					"execu",
+					"function isManag",
+					"isManager",
+					"шыЬфтфпук",
+					"edit",
+					"id=\"mainMbMenu\"",
+					"table",
+					"getUserId",
+					"getUser",
+					"project.*",
+					"project.zakaz",
+					"modules.project",
+					"fbf2fb988cdf413b8e5b32ba208464e2",
+					"fn_selfActions.sqf",
+					"dayzPlayerLogin2 = [_worldspace,_state];",
+					"_randomSpot",
+					"dayz_recordLogin",
+					"DefaultBackpack",
+					"DefaultWeapons",
+					"DefaultMagazines",
+					"dayz_paraSpawn",
+					"dayz_spawnselection",
+					"VM",
+					"preProcessFileLineNumbers",
+					"migrate:",
+					"h1",
+					"Персональные данные",
+					"<p>Персональные данные</p>",
+					"panelButtonMessageCount",
+					"style=\"height: 27px;\"",
+					"personal.friends_online",
+					"<p>Профиль</p>",
+					"Игровая почта",
+					"class=\"profile_avatar\"",
+					"profile_mail",
+					"IS_UNREAD_COUNT",
+					"socialnetwork.user_friends",
+					"<p>Профиль</p>",
+					"style=\"font-weight: bold;\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/greshnik/projects/btrxtogoogle"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/greshnik/projects/btrxtogoogle/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2031,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1281,
+										1281
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/greshnik/projects/btrxtogoogle/authbtrx.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 594,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										291,
+										291
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/greshnik/projects/btrxtogoogle/test.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 764,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										764,
+										764
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/greshnik/projects/btrxtogoogle/composer.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 75,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										75,
+										75
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/greshnik/projects/btrxtogoogle/test.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7,
+										7
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"incomplete_sync": null,
+									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 690.0
+			},
+			"output.sftp":
+			{
+				"height": 112.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,686,24,1326,476,3520,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"vars",
+						"vars.inc.php"
+					],
+					[
+						"styles",
+						"assets/styles/styles.css"
+					],
+					[
+						"api/ser",
+						"api/services/passport.js"
+					],
+					[
+						"services/passport",
+						"node_modules/sails-generate-auth/templates/api/services/passport.js"
+					],
+					[
+						"notifi",
+						"models/Notification.js"
+					],
+					[
+						"zakaz",
+						"protected/modules/project/controllers/ZakazController.php"
+					],
+					[
+						"fn_selfactions.sqf",
+						"temp/dayz_code/compile/fn_selfActions.sqf"
+					],
+					[
+						"send_and",
+						"bitrix/templates/aidentica/components/games/postman/.default/send_and_check.php"
+					],
+					[
+						"user_action",
+						"bitrix/php_interface/include/identica_api/user_action.php"
+					],
+					[
+						"jquery.incrementbox.js",
+						"bitrix/templates/aidentica/js/jquery.IncrementBox.js"
+					],
+					[
+						"partner",
+						"bitrix/templates/aidentica/css/partner.css"
+					],
+					[
+						"visit_brandjs",
+						"bitrix/templates/aidentica/components/games/visit_brand/.default/script.js"
+					],
+					[
+						"partner.css",
+						"bitrix/templates/aidentica/css/partner.css"
+					],
+					[
+						"style.css",
+						"templates/common/css/style.css"
+					],
+					[
+						"repo",
+						"protected/models/Report.php"
+					],
+					[
+						"mess",
+						"protected/models/Messages.php"
+					],
+					[
+						"studen",
+						"protected/controllers/StudentController.php"
+					],
+					[
+						"stud",
+						"protected/models/Student.php"
+					],
+					[
+						"group",
+						"protected/controllers/GroupController.php"
+					],
+					[
+						"goup",
+						"protected/controllers/GroupController.php"
+					],
+					[
+						"stude",
+						"protected/models/Student.php"
+					],
+					[
+						"hotnew",
+						"protected/models/HotNews.php"
+					],
+					[
+						"alltest",
+						"protected/views/group/viewAllTests.php"
+					],
+					[
+						"viewall",
+						"protected/views/group/viewAllTruancy.php"
+					],
+					[
+						"lay",
+						"views/layout.ejs"
+					],
+					[
+						"login",
+						"views/user/loginform.ejs"
+					],
+					[
+						"view/lay",
+						"views/layout.ejs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 285.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"AU.file"
+					]
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 290.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 104,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/greshnik/sailsapp.sublime-workspace"
+		]
+	}
+}

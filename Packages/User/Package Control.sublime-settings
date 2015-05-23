@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"BracketHighlighter",
+		"EJS",
+		"Git",
+		"Git Conflict Resolver",
+		"HTML-CSS-JS Prettify",
+		"Hyperloop EJS",
+		"JavaScript & NodeJS Snippets",
+		"Javascript Beautify",
+		"LiveStyle",
+		"Package Control",
+		"PhpDoc",
+		"PlainTasks",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SVN"
+	]
+}
