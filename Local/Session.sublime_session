@@ -1,6 +1,16 @@
 {
 	"folder_history":
 	[
+		"/home/greshnik/tmp/dle/upload",
+		"/home/greshnik/tmp/shs",
+		"/home/greshnik/tmp/lend2",
+		"/var/www/prostorad/prostorad",
+		"/home/greshnik/tmp/protfoliopage",
+		"/home/greshnik/tmp/landing",
+		"/home/greshnik/tmp/test",
+		"/var/www/mailer2/mailers",
+		"/home/greshnik/projects/voice_control",
+		"/var/www/prostoapp",
 		"/home/greshnik/mailer-html",
 		"/home/greshnik/projects/netcatadmin",
 		"/home/greshnik/projects/btrxtogoogle",
@@ -69,7 +79,7 @@
 		"/home/greshnik/Рабочий стол/Разкодить"
 	],
 	"last_version": 3083,
-	"last_window_id": 107,
+	"last_window_id": 122,
 	"log_indexing": false,
 	"settings":
 	{
@@ -81,8 +91,176 @@
 				"selected_items":
 				[
 					[
+						"class",
+						"class=〔attribute〕"
+					],
+					[
+						"TY",
+						"TYPE_INTEGER"
+					],
+					[
+						"T",
+						"TYPE_STRING"
+					],
+					[
+						"savenode",
+						"savenode?type=Folder&parent"
+					],
+					[
+						"conte",
+						"context"
+					],
+					[
+						"model",
+						"$model〔variable〕"
+					],
+					[
+						"json",
+						"json_encode〔function〕"
+					],
+					[
+						"tree",
+						"treeItems"
+					],
+					[
+						"sub",
+						"submit〔function〕"
+					],
+					[
+						"find",
+						"findOne〔function〕"
+					],
+					[
+						"clos",
+						"closemenu"
+					],
+					[
+						"save",
+						"savefolder"
+					],
+					[
+						"S",
+						"TYPE_STRING〔constant〕"
+					],
+					[
+						"appent",
+						"append〔function〕"
+					],
+					[
+						"app",
+						"append"
+					],
+					[
+						"TYPE_",
+						"TYPE_INTEGER〔constant〕"
+					],
+					[
+						"TYPE",
+						"TYPE_FLOAT"
+					],
+					[
+						"TYPE_S",
+						"TYPE_STRING〔constant〕"
+					],
+					[
+						"create",
+						"createTable〔function〕"
+					],
+					[
+						"drop",
+						"dropTable〔function〕"
+					],
+					[
+						"ali",
+						"text-align: 〔property〕"
+					],
+					[
+						"u",
+						"undefined"
+					],
+					[
+						"email",
+						"$emails〔variable〕"
+					],
+					[
+						"list",
+						"listEmails"
+					],
+					[
+						"lis",
+						"list"
+					],
+					[
+						"li",
+						"listEmails"
+					],
+					[
+						"date",
+						"$dateTime〔variable〕"
+					],
+					[
+						"add",
+						"addressbookid"
+					],
+					[
+						"temp",
+						"templateId"
+					],
+					[
 						"acc",
-						"access_token"
+						"$accounemail〔variable〕"
+					],
+					[
+						"id",
+						"$idMailer〔variable〕"
+					],
+					[
+						"tem",
+						"$templateId〔variable〕"
+					],
+					[
+						"start",
+						"starttime"
+					],
+					[
+						"addressBoo",
+						"addressbook"
+					],
+					[
+						"addre",
+						"addressBook"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"template",
+						"templateid"
+					],
+					[
+						"Acc",
+						"Account"
+					],
+					[
+						"mode",
+						"$modelForm〔variable〕"
+					],
+					[
+						"pa",
+						"parentid〔variable〕"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"endfo",
+						"endforeach〔keyword〕"
 					],
 					[
 						"auth",
@@ -157,10 +335,6 @@
 						"queryClauses"
 					],
 					[
-						"for",
-						"forEach"
-					],
-					[
 						"pro",
 						"profile"
 					],
@@ -203,10 +377,6 @@
 					[
 						"orde",
 						"ordererId"
-					],
-					[
-						"find",
-						"findByPk"
 					],
 					[
 						"or",
@@ -261,10 +431,6 @@
 						"CommandManager"
 					],
 					[
-						"json",
-						"json_encode"
-					],
-					[
 						"eve",
 						"event_filter"
 					],
@@ -287,10 +453,6 @@
 					[
 						"pr",
 						"printf"
-					],
-					[
-						"arr",
-						"arrFilter"
 					],
 					[
 						"usre",
@@ -367,10 +529,6 @@
 					[
 						"proto",
 						"prototype"
-					],
-					[
-						"app",
-						"Application"
 					]
 				]
 			},
@@ -381,16 +539,24 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "php",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"php",
-						"SublimeREPL: PHP"
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"js",
 						"Javascript Beautify"
+					],
+					[
+						"addd",
+						"Project: Add Folder"
+					],
+					[
+						"php",
+						"SublimeREPL: PHP"
 					],
 					[
 						"prett",
@@ -447,10 +613,6 @@
 					[
 						"svn update",
 						"SVN: Update"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"com",
@@ -519,14 +681,120 @@
 			},
 			"file_history":
 			[
+				"/var/www/prostoapp/basic/helper/TreeNodeFabric.php",
+				"/var/www/prostoapp/basic/models/DirectoryAR.php",
+				"/var/www/prostoapp/basic/models/Person.php",
+				"/var/www/prostoapp/basic/migrations/m150622_195707_create_table_person.php",
+				"/var/www/prostoapp/basic/models/Directory.php",
+				"/var/www/prostoapp/basic/web/js/bootstrap-treeview.js",
+				"/var/www/prostoapp/basic/web/js/bootstrap-contextmenu.js",
+				"/var/www/prostoapp/basic/models/Folder.php",
+				"/var/www/prostoapp/basic/models/PersonRole.php",
+				"/var/www/prostoapp/basic/controllers/DirectoryController.php",
+				"/var/www/prostoapp/basic/views/directory/addpersonrole.php",
+				"/var/www/prostoapp/basic/migrations/m150616_075738_create_folder_table.php",
+				"/var/www/prostoapp/basic/views/directory/addfolder.php",
+				"/var/www/prostoapp/basic/views/directory/viewfolder.php",
+				"/var/www/prostoapp/basic/web/js/main.js",
+				"/var/www/prostoapp/basic/migrations/m150622_190416_create_table_peronRole.php",
+				"/tmp/fz3temp-1/.htaccess",
+				"/var/www/prostoapp/basic/web/assets/d5e8b7b6/yii.activeForm.js",
+				"/var/www/prostoapp/basic/views/layouts/main.php",
+				"/var/www/prostoapp/basic/controllers/CallController.php",
+				"/var/www/prostoapp/basic/views/directory/index.php",
+				"/var/www/prostoapp/basic/controllers/SiteController.php",
+				"/var/www/prostoapp/basic/models/Calls.php",
+				"/var/www/prostoapp/basic/migrations/m150616_074016_create_directory_table.php",
+				"/var/www/prostoapp/basic/assets/AppAsset.php",
+				"/var/www/prostoapp/basic/web/index.php",
+				"/var/www/prostoapp/basic/config/console.php",
+				"/var/www/prostoapp/basic/config/web.php",
+				"/var/www/prostoapp/basic/yii",
+				"/var/www/prostoapp/basic/config/db.php",
+				"/var/www/prostoapp/basic/vendor/yiisoft/yii2/BaseYii.php",
+				"/var/www/prostoapp/basic/models/Contract.php",
+				"/var/www/prostoapp/basic/views/site/index.php",
+				"/var/www/prostoapp/basic/migrations/m150608_140327_create_contract_table.php",
+				"/var/www/prostoapp/basic/migrations/m150608_132020_create_sample_table.php",
+				"/var/www/prostoapp/basic/views/sample/index.php",
+				"/var/www/prostoapp/basic/views/sample/update.php",
+				"/var/www/prostoapp/basic/views/sample/_form.php",
+				"/var/www/prostoapp/basic/views/sample/create.php",
+				"/var/www/prostoapp/basic/views/sample/view.php",
+				"/var/www/prostoapp/basic/migrations/m150608_124318_create_calls_table.php",
+				"/var/www/prostoapp/basic/models/Samples.php",
+				"/var/www/prostoapp/basic/views/call/index.php",
+				"/var/www/prostoapp/basic/views/call/create.php",
+				"/var/www/prostoapp/basic/views/call/update.php",
+				"/var/www/prostoapp/basic/views/call/_form.php",
+				"/var/www/prostoapp/basic/views/call/view.php",
+				"/var/www/prostoapp/basic/commands/RbacController.php",
+				"/var/www/prostoapp/basic/views/site/main.php",
+				"/var/www/prostoapp/basic/models/User.php",
+				"/var/www/prostoapp/basic/models/LoginForm.php",
+				"/var/www/prostoapp/basic/migrations/m150605_125121_create_call_table.php",
+				"/var/www/prostoapp/basic/web/css/site.css",
+				"/tmp/fz3temp-1/index 4.php",
+				"/tmp/fz3temp-1/index 3.php",
+				"/tmp/fz3temp-1/index 2.php",
+				"/var/www/prostoapp/.hgignore",
 				"/tmp/fz3temp-1/index.php",
+				"/var/www/prostoapp/basic/composer.json",
+				"/var/www/prostoapp/basic/migrations/m150604_133355_create_user_table.php",
+				"/var/www/mailer2/mailers/basic/views/site/index.php",
+				"/var/www/mailer2/mailers/basic/views/site/addmailer.php",
+				"/var/www/mailer2/mailers/basic/models/Listemails.php",
+				"/var/www/mailer2/mailers/basic/controllers/SiteController.php",
+				"/var/www/mailer2/mailers/basic/models/TemplateForm.php",
+				"/var/www/mailer2/mailers/basic/models/Templates.php",
+				"/var/www/mailer2/mailers/basic/models/Addressbook.php",
+				"/var/www/mailer2/mailers/basic/config/web.php",
+				"/var/www/mailer2/mailers/basic/models/Mailers.php",
+				"/var/www/mailer2/mailers/basic/models/MailerForm.php",
+				"/var/www/mailer/classes/functions.php",
+				"/var/www/mailer2/mailers/basic/views/site/addtemplate.php",
+				"/var/www/mailer2/mailers/basic/components/ApiEmailComponent.php",
+				"/var/www/mailer2/mailers/basic/web/index.php",
+				"/var/www/mailer2/mailers/basic/config/db.php",
+				"/var/www/mailer2/mailers/basic/commands/MailerController.php",
+				"/var/www/mailer/classes/api-email.php",
+				"/var/www/mailer/cron.php",
+				"/var/www/mailer2/mailers/basic/web/js/main.js",
+				"/var/www/mailer2/mailers/basic/components",
+				"/var/www/mailer2/mailers/basic/composer.json",
+				"/var/www/mailer/report.php",
+				"/var/www/mailer2/mailers/basic/assets/AppAsset.php",
+				"/var/www/mailer2/mailers/basic/views/site/reports.php",
+				"/var/www/mailer2/mailers/basic/commands/RbacController.php",
+				"/var/www/mailer2/mailers/.hgignore",
+				"/var/www/mailer2/mailers/basic/migrations/m150601_040226_template_text_field.php",
+				"/var/www/mailer2/mailers/basic/views/site/accounts.php",
+				"/var/www/mailer2/mailers/composer.json",
+				"/var/www/mailer2/mailers/basic/rbac/UserGroupRule.php",
+				"/var/www/mailer2/mailers/basic/models/Account.php",
+				"/var/www/mailer2/mailers/basic/models/AccountForm.php",
+				"/var/www/mailer2/mailers/basic/views/site/addaccount.php",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/var/www/mailer2/mailers/basic/models/LoginForm.php",
+				"/var/www/mailer2/mailers/basic/vendor/yiisoft/yii2/helpers/ArrayHelper.php",
+				"/var/www/mailer2/mailers/basic/views/site/mailers.php",
+				"/var/www/mailer2/mailers/basic/models/User.php",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/PHP Companion.sublime-settings",
+				"/var/www/mailer2/mailers/basic/vendor/ezyang/htmlpurifier/TODO",
+				"/var/www/mailer2/mailers/basic/views/layouts/main.php",
+				"/var/www/mailer2/mailers/basic/vendor/yiisoft/yii2/messages/ru/yii.php",
+				"/var/www/mailer2/mailers/basic/web/css/site.css",
+				"/var/www/mailer2/mailers/basic/vendor/ezyang/htmlpurifier/docs/style.css",
+				"/var/www/mailer2/mailers/basic/web/.htaccess",
 				"/tmp/fz3temp-1/component.php",
-				"/home/greshnik/projects/netcatadmin/reposter/config.php",
-				"/tmp/fz3temp-1/cron.php",
-				"/home/greshnik/projects/netcatadmin/reposter/authfb.php",
-				"/tmp/fz3temp-1/config.php",
-				"/tmp/fz3temp-1/config 2.php",
-				"/home/greshnik/projects/netcatadmin/reposter/index.php",
+				"/home/greshnik/projects/btrxtogoogle/test.php",
+				"/home/greshnik/projects/btrxtogoogle/composer.json",
+				"/home/greshnik/projects/btrxtogoogle/test.txt",
+				"/home/greshnik/projects/btrxtogoogle/index.php",
+				"/home/greshnik/projects/btrxtogoogle/authbtrx.php",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/greshnik/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/tmp/fz3temp-1/auth.php",
 				"/var/www/netcat/netcat/admin/lang/Russian_utf8.php",
 				"/var/www/netcat/vars.inc.php",
 				"/var/www/netcat/netcat/admin/js/main.js",
@@ -540,113 +808,7 @@
 				"/var/www/netcat/sftp-config.json",
 				"/var/www/netcat/reposter/token",
 				"/var/www/netcat/config.php",
-				"/var/www/netcat/index.php",
-				"/var/www/netcat/auth.php",
-				"/var/www/netcat/vk/VKException.php",
-				"/var/www/netcat/token",
-				"/var/www/netcat/vk/config.php",
-				"/tmp/fz3temp-1/template.php",
-				"/tmp/fz3temp-1/template 3.php",
-				"/tmp/fz3temp-1/index 2.php",
-				"/tmp/fz3temp-1/index 3.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/greshnik/.config/sublime-text-3/Packages/Git Conflict Resolver/GitConflictResolver.sublime-settings",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/policies.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/sessionAuth.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Games.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/models.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/views/main/index.ejs",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/strategy.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/steam-web/lib/steam.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/views/auth/login.ejs",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/routes.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/connections.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/grunt-sails-linker/test/scriptlinker_test.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/session.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/User.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/index.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/bootstrap.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/oauth2.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/openid.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/controllers/AuthController.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/.gitkeep",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-twitter/lib/errors/apierror.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/pkginfo/examples/all-properties.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/app.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails-generate-auth/templates/api/services/passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/express/node_modules/connect/node_modules/serve-index/node_modules/accepts/node_modules/mime-types/package.json",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/prompt/node_modules/revalidator/example/webservice.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/responses/serverError.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/sails-hook-sockets/lib/prepare-adapter.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/package.json",
-				"/tmp/fz3temp-1/log",
-				"/tmp/fz3temp-1/lendings 2.csv",
-				"/tmp/fz3temp-1/lendings.csv",
-				"/var/www/mailer/jsonp/landing.php",
-				"/tmp/fz3temp-1/affiliate_panel.php",
-				"/tmp/fz3temp-1/babyliss.tpl",
-				"/tmp/fz3temp-1/smarty_internal_write_file.php",
-				"/tmp/fz3temp-1/index-2.tpl",
-				"/tmp/fz3temp-1/index.tpl",
-				"/tmp/fz3temp-1/landing.php",
-				"/tmp/fz3temp-1/log02.16.2015.15.csv",
-				"/tmp/fz3temp-1/1c_exchange.php",
-				"/tmp/fz3temp-1/orders-001aed75-640a-482a-acb6-6da0b5ab62ed.xml",
-				"/tmp/fz3temp-1/path_to_metrika.php",
-				"/tmp/fz3temp-1/main.js",
-				"/tmp/fz3temp-1/log02.11.2015.csv",
-				"/tmp/fz3temp-1/log.csv",
-				"/tmp/fz3temp-1/log02.07.2015.csv",
-				"/tmp/fz3temp-1/chasy-ferrary.tpl",
-				"/tmp/fz3temp-1/affiliate_class.php",
-				"/tmp/fz3temp-1/resize.php",
-				"/var/www/mailer/cron3.php",
-				"/var/www/mailer/cron2.php",
-				"/var/www/mailer/newsletter.php",
-				"/var/www/mailer/js/main.js",
-				"/var/www/mailer/editnewsletter.php",
-				"/var/www/mailer/classes/functions.php",
-				"/var/www/mailer/test2.php",
-				"/var/www/mailer/jsonp/script.js",
-				"/tmp/fz3temp-1/IndexAdmin.php",
-				"/var/www/mailer/files/landing.csv",
-				"/var/www/mailer/classes/api-email.php",
-				"/var/www/mailer/cron.php",
-				"/tmp/fz3temp-1/Report.php",
-				"/tmp/fz3temp-1/admin.php",
-				"/tmp/fz3temp-1/FormatHelper.php",
-				"/tmp/fz3temp-1/cron2.php",
-				"/tmp/fz3temp-1/EstateobjectController.php",
-				"/tmp/fz3temp-1/EstateObject.php",
-				"/tmp/fz3temp-1/ReportController.php",
-				"/tmp/fz3temp-1/cron3.php",
-				"/tmp/fz3temp-1/nginx.conf",
-				"/home/greshnik/tmp/mrandom.com/config/config.js",
-				"/home/greshnik/tmp/mrandom.com/node-mrandom.com",
-				"/home/greshnik/tmp/mrandom.com/models/Taxonomy.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/lib/reporters/json-stream.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/node_modules/.bin/jade",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/tablenew.ect",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/allnew.ect",
-				"/home/greshnik/tmp/mrandom.com/controllers/contest/index.js",
-				"/home/greshnik/tmp/mrandom.com/controllers/notification/index.js",
-				"/home/greshnik/tmp/mrandom.com/models/Notification.js",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/table.ect",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/all.ect",
-				"/home/greshnik/tmp/mrandom.com/app.js",
-				"/home/greshnik/tmp/mrandom.com/models/Contest.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly-tests.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly.html",
-				"/tmp/fz3temp-1/index.js",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/comment/list.ect",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/single.ect",
-				"/tmp/fz3temp-1/winners.ect",
-				"/home/greshnik/temp.php",
-				"/tmp/fz3temp-1/readme.txt",
-				"/tmp/fz3temp-1/uploadify_wp.php"
+				"/var/www/netcat/index.php"
 			],
 			"find":
 			{
@@ -667,8 +829,122 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"$event->Send",
-					"send",
+					"tree",
+					"node",
+					"glyphicon-",
+					"glyphicon-folder-open",
+					"nodeExpanded",
+					"onNodeExpanded",
+					"nodeExpanded",
+					"onNodeExpanded",
+					"tree",
+					"prepareData",
+					"tree",
+					"nodes",
+					"render ",
+					"getSiblings",
+					"nodes =",
+					"tree =",
+					"activeNode",
+					"findNode",
+					"onNodeExpanded",
+					"deleted",
+					"this.tree",
+					"build",
+					"new Tree",
+					"pluginName",
+					"data",
+					"buildTree",
+					"add",
+					"render",
+					"activeNode",
+					"find",
+					"delete",
+					"styleId",
+					"remove",
+					"find",
+					"function",
+					"');\n",
+					"find",
+					"w0",
+					"directory-addfolder",
+					"methods.init",
+					"submitForm",
+					"submitting",
+					"                console.log(event.result);\nsubmit",
+					"submit",
+					");\n",
+					"beforeSubmit",
+					"            \n",
+					"ContextMenu",
+					"data",
+					"getTree",
+					"'YII_ENV', 'prod'",
+					"YII_ENV",
+					"clickHandler",
+					"nodeSelected",
+					"click",
+					"nodeSelected",
+					"onNodeSelected",
+					"onSe",
+					"node-icon",
+					"indent",
+					"template.indent",
+					");\n",
+					"this.template.indent",
+					"nodeSelected",
+					"onNodeSelected",
+					"conta",
+					"lastmail",
+					"apiEmail",
+					"getResult",
+					"addAddressesNew",
+					"variables",
+					"getResult",
+					"variables",
+					"getControlSum",
+					"$apiEmail",
+					"apiEmail",
+					"Yii::$app->ApiEmailComponent",
+					"ApiEmail",
+					"checkMail",
+					"addListEmails",
+					"newAddressBook",
+					"$apiemail",
+					"ApiEmailComponent",
+					"accountname",
+					"account",
+					"checkMail",
+					"addLatter",
+					"newLatter",
+					"template",
+					"addListemails",
+					"newAddr",
+					"$h",
+					"TITLE",
+					"title",
+					"tit",
+					"find",
+					"([\n",
+					"template",
+					"return",
+					"public",
+					"User",
+					"Главная",
+					"float: right",
+					".left",
+					"Home",
+					"breadcrumbs",
+					"breadc",
+					"bread",
+					"url",
+					"CEvent",
+					"$event",
+					"$event-",
+					"$event",
+					"strOrderList",
+					"ORDER_LIST",
+					"SALE_NEW_ORDER",
 					"$service",
 					"class=\"nc_row\"",
 					"f_Priority",
@@ -680,121 +956,7 @@
 					"addPolygonOnMap",
 					"saveData",
 					"addPolygonOnMap",
-					"#save",
-					"map",
-					"UpdateClearButton",
-					"GDouglasPeucker",
-					".png",
-					"mapInit",
-					"http",
-					"callMethod",
-					"checkAccessToken",
-					"VKEx",
-					"id=\"request-a-call\"",
-					");\n",
-					"tableOptions",
-					"id=\"date-range-select\"",
-					"date-range-select",
-					"left-axis-metrics",
-					"console.log",
-					"console",
-					"сравнить",
-					"compare-box",
-					"localMetrics",
-					"getDateRange",
-					"download",
-					"ISteamNews",
-					"getOwnedGames",
-					"GetOwnedGames",
-					" username nor email was available",
-					"Error: Neither a username nor email was available",
-					"RememberMeStrategy",
-					"console.log",
-					"passport.connect",
-					"connect",
-					"AuthController",
-					"passport.use",
-					"asdbogch",
-					"Empty private",
-					"sale",
-					"success",
-					"ons",
-					"Письмо открыто",
-					"BASE_URL",
-					"Empty private key",
-					"listmailers",
-					"model",
-					"redirectPhp",
-					"getPagination",
-					"listMy",
-					"my/",
-					"memory_cache",
-					"cache",
-					"showOldById",
-					"ContestMysql",
-					"logg",
-					"playContest",
-					"logger",
-					"ect_watch",
-					"env",
-					"development",
-					"playContest",
-					"showWinnersById",
-					"type",
-					"Contest.count",
-					"count",
-					"Taxonomy",
-					"showAll",
-					"showById",
-					"contest/all",
-					"showAllNew",
-					"showAll",
-					"Конкурс еще не",
-					"showWinnersById",
-					"showById",
-					"/contest/",
-					"echo",
-					"Contest.find",
-					".find",
-					"showWinnersById",
-					"winners",
-					"execu",
-					"function isManag",
-					"isManager",
-					"шыЬфтфпук",
-					"edit",
-					"id=\"mainMbMenu\"",
-					"table",
-					"getUserId",
-					"getUser",
-					"project.*",
-					"project.zakaz",
-					"modules.project",
-					"fbf2fb988cdf413b8e5b32ba208464e2",
-					"fn_selfActions.sqf",
-					"dayzPlayerLogin2 = [_worldspace,_state];",
-					"_randomSpot",
-					"dayz_recordLogin",
-					"DefaultBackpack",
-					"DefaultWeapons",
-					"DefaultMagazines",
-					"dayz_paraSpawn",
-					"dayz_spawnselection",
-					"VM",
-					"preProcessFileLineNumbers",
-					"migrate:",
-					"h1",
-					"Персональные данные",
-					"<p>Персональные данные</p>",
-					"panelButtonMessageCount",
-					"style=\"height: 27px;\"",
-					"personal.friends_online",
-					"<p>Профиль</p>",
-					"Игровая почта",
-					"class=\"profile_avatar\"",
-					"profile_mail",
-					"IS_UNREAD_COUNT",
-					"socialnetwork.user_friends"
+					"#save"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -802,6 +964,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"$this->apiEmail",
+					"$apiEmail"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -842,6 +1006,186 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"perso",
+						"basic/models/Person.php"
+					],
+					[
+						"treenodefabric",
+						"basic/helper/TreeNodeFabric.php"
+					],
+					[
+						"create_per",
+						"basic/migrations/m150622_195707_create_table_person.php"
+					],
+					[
+						"main.js",
+						"basic/web/js/main.js"
+					],
+					[
+						"pers",
+						"basic/models/PersonRole.php"
+					],
+					[
+						"create_f",
+						"basic/migrations/m150616_075738_create_folder_table.php"
+					],
+					[
+						"create",
+						"basic/migrations/m150622_190416_create_table_peronRole.php"
+					],
+					[
+						"main.sj",
+						"basic/web/js/main.js"
+					],
+					[
+						"direct",
+						"basic/controllers/DirectoryController.php"
+					],
+					[
+						"directo",
+						"basic/models/Directory.php"
+					],
+					[
+						"folder",
+						"basic/models/Folder.php"
+					],
+					[
+						"call",
+						"basic/controllers/CallController.php"
+					],
+					[
+						"site",
+						"basic/controllers/SiteController.php"
+					],
+					[
+						"calls",
+						"basic/models/Calls.php"
+					],
+					[
+						"main",
+						"basic/views/layouts/main.php"
+					],
+					[
+						"folder_table",
+						"basic/migrations/m150616_075738_create_folder_table.php"
+					],
+					[
+						"create_d",
+						"basic/migrations/m150616_074016_create_directory_table.php"
+					],
+					[
+						"lay",
+						"basic/views/layouts/main.php"
+					],
+					[
+						"contra",
+						"basic/migrations/m150608_140327_create_contract_table.php"
+					],
+					[
+						"sample_ta",
+						"basic/migrations/m150608_132020_create_sample_table.php"
+					],
+					[
+						"create_ca",
+						"basic/migrations/m150605_125121_create_call_table.php"
+					],
+					[
+						"layouts",
+						"basic/views/layouts/main.php"
+					],
+					[
+						"migration",
+						"basic/migrations/m150604_133355_create_user_table.php"
+					],
+					[
+						"mailers",
+						"basic/views/site/mailers.php"
+					],
+					[
+						"index",
+						"basic/views/site/index.php"
+					],
+					[
+						"addmailer",
+						"basic/views/site/addmailer.php"
+					],
+					[
+						"email",
+						"basic/models/Emails.php"
+					],
+					[
+						"web",
+						"basic/config/web.php"
+					],
+					[
+						"templatef",
+						"basic/models/TemplateForm.php"
+					],
+					[
+						"templates",
+						"basic/models/Templates.php"
+					],
+					[
+						"tempalte",
+						"basic/models/Templates.php"
+					],
+					[
+						"templateform",
+						"basic/models/TemplateForm.php"
+					],
+					[
+						"mailer",
+						"basic/models/MailerForm.php"
+					],
+					[
+						"add",
+						"basic/views/site/addtemplate.php"
+					],
+					[
+						"addtem",
+						"basic/views/site/addtemplate.php"
+					],
+					[
+						"model/template",
+						"basic/models/Templates.php"
+					],
+					[
+						"template",
+						"basic/migrations/m150601_040226_template_text_field.php"
+					],
+					[
+						"acco",
+						"basic/models/Account.php"
+					],
+					[
+						"mail",
+						"basic/views/site/mailers.php"
+					],
+					[
+						"user",
+						"basic/models/User.php"
+					],
+					[
+						"todo",
+						"basic/vendor/ezyang/htmlpurifier/TODO"
+					],
+					[
+						"lo",
+						"basic/models/LoginForm.php"
+					],
+					[
+						"basic/web/css",
+						"basic/web/css/site.css"
+					],
+					[
+						"style",
+						"basic/vendor/ezyang/htmlpurifier/docs/style.css"
+					],
+					[
+						"commands/",
+						"basic/commands/RbacController.php"
+					],
 					[
 						"vars",
 						"vars.inc.php"
@@ -939,10 +1283,6 @@
 						"protected/views/group/viewAllTruancy.php"
 					],
 					[
-						"lay",
-						"views/layout.ejs"
-					],
-					[
 						"login",
 						"views/user/loginform.ejs"
 					],
@@ -979,7 +1319,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 290.0,
+			"side_bar_width": 346.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -994,6 +1334,194 @@
 			{
 				"selected_items":
 				[
+					[
+						"sessi",
+						"session_id〔function〕"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"city",
+						"citywindow〔variable〕"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"_S",
+						"$_SESSION〔variable〕"
+					],
+					[
+						"savenode",
+						"savenode?type=Folder&parent"
+					],
+					[
+						"conte",
+						"context"
+					],
+					[
+						"model",
+						"$model〔variable〕"
+					],
+					[
+						"json",
+						"json_encode〔function〕"
+					],
+					[
+						"tree",
+						"treeItems"
+					],
+					[
+						"sub",
+						"submit〔function〕"
+					],
+					[
+						"find",
+						"findOne〔function〕"
+					],
+					[
+						"clos",
+						"closemenu"
+					],
+					[
+						"save",
+						"savefolder"
+					],
+					[
+						"T",
+						"TYPE_STRING〔constant〕"
+					],
+					[
+						"S",
+						"TYPE_STRING〔constant〕"
+					],
+					[
+						"appent",
+						"append〔function〕"
+					],
+					[
+						"app",
+						"append"
+					],
+					[
+						"TYPE_",
+						"TYPE_INTEGER〔constant〕"
+					],
+					[
+						"TY",
+						"TYPE_INTEGER〔constant〕"
+					],
+					[
+						"TYPE",
+						"TYPE_FLOAT"
+					],
+					[
+						"TYPE_S",
+						"TYPE_STRING〔constant〕"
+					],
+					[
+						"create",
+						"createTable〔function〕"
+					],
+					[
+						"drop",
+						"dropTable〔function〕"
+					],
+					[
+						"ali",
+						"text-align: 〔property〕"
+					],
+					[
+						"u",
+						"undefined"
+					],
+					[
+						"email",
+						"$emails〔variable〕"
+					],
+					[
+						"list",
+						"listEmails"
+					],
+					[
+						"lis",
+						"list"
+					],
+					[
+						"li",
+						"listEmails"
+					],
+					[
+						"date",
+						"$dateTime〔variable〕"
+					],
+					[
+						"add",
+						"addressbookid"
+					],
+					[
+						"temp",
+						"templateId"
+					],
+					[
+						"acc",
+						"$accounemail〔variable〕"
+					],
+					[
+						"id",
+						"$idMailer〔variable〕"
+					],
+					[
+						"tem",
+						"$templateId〔variable〕"
+					],
+					[
+						"start",
+						"starttime"
+					],
+					[
+						"addressBoo",
+						"addressbook"
+					],
+					[
+						"addre",
+						"addressBook"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"template",
+						"templateid"
+					],
+					[
+						"Acc",
+						"Account"
+					],
+					[
+						"mode",
+						"$modelForm〔variable〕"
+					],
+					[
+						"pa",
+						"parentid〔variable〕"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"arr",
+						"array	$… = array (…)"
+					],
+					[
+						"endfo",
+						"endforeach〔keyword〕"
+					],
 					[
 						"auth",
 						"$auth〔variable〕"
@@ -1067,10 +1595,6 @@
 						"queryClauses"
 					],
 					[
-						"for",
-						"forEach"
-					],
-					[
 						"pro",
 						"profile"
 					],
@@ -1113,10 +1637,6 @@
 					[
 						"orde",
 						"ordererId"
-					],
-					[
-						"find",
-						"findByPk"
 					],
 					[
 						"or",
@@ -1171,10 +1691,6 @@
 						"CommandManager"
 					],
 					[
-						"json",
-						"json_encode"
-					],
-					[
 						"eve",
 						"event_filter"
 					],
@@ -1197,10 +1713,6 @@
 					[
 						"pr",
 						"printf"
-					],
-					[
-						"arr",
-						"arrFilter"
 					],
 					[
 						"usre",
@@ -1277,52 +1789,58 @@
 					[
 						"proto",
 						"prototype"
-					],
-					[
-						"app",
-						"Application"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/greshnik/projects/btrxtogoogle/index.php",
+					"file": "/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php",
 					"settings":
 					{
-						"buffer_size": 2031,
+						"buffer_size": 349,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/greshnik/projects/btrxtogoogle/authbtrx.php",
+					"file": "/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php",
 					"settings":
 					{
-						"buffer_size": 594,
+						"buffer_size": 398,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/greshnik/projects/btrxtogoogle/test.php",
+					"contents": "Searching 41725 files for \"NoCacheRenderedPage\"\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php:\n   10  	protected function render($template, $options = [])\n   11  	{\n   12: 		$response = new NoCacheRenderedPage();\n   13  		$response->setContent(\\TwigSingleton::getInstance()->renderMinified($template, $options));\n   14  		return $response;\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php:\n    6  use prostorad\\Controller\\RenderedPage;\n    7  \n    8: class NoCacheRenderedPage extends RenderedPage\n    9  {\n   10  	public $noCache = true;\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Mail/MailTemplateController.php:\n    5  \n    6  use OrderItemFactory;\n    7: use prostorad\\Admin\\NoCacheRenderedPage;\n    8  use Symfony\\Component\\HttpFoundation\\Request;\n    9  \n   ..\n   16  		$itemId = $post->get('itemId');\n   17  		if ($orderId === null || $itemId === null) {\n   18: 			return new NoCacheRenderedPage('orderitem id not set', 400);\n   19  		}\n   20  		$orderItem = OrderItemFactory::getByOrderIdAndSuborderId($orderId, $itemId);\n   21  		if ($orderItem === null) {\n   22: 			return new NoCacheRenderedPage('orderitem not found', 400);\n   23  		}\n   24  		$templateName = $post->get('templateName');\n   ..\n   26  			$partnerId = $post->get('partnerId');\n   27  			if ($partnerId === null) {\n   28: 				return new NoCacheRenderedPage('partnerId not set', 400);\n   29  			}\n   30  			$template = MailTemplatePartnerFactory::getById($partnerId);\n   ..\n   34  		}\n   35  		if ($template === null) {\n   36: 			return new NoCacheRenderedPage('template not found', 400);\n   37  		}\n   38  		$draft = $template->render(\n   ..\n   42  			$post->get('draftId')\n   43  		);\n   44: 		return new NoCacheRenderedPage(json_encode($draft, JSON_UNESCAPED_UNICODE));\n   45  	}\n   46  }\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Opinions/MailOpinionsController.php:\n    4  \n    5  use prostorad\\Admin\\AdminController;\n    6: use prostorad\\Admin\\NoCacheRenderedPage;\n    7  use prostorad\\Otzyvy\\MailOpinion;\n    8  use prostorad\\Otzyvy\\MailOpinionFactory;\n    .\n   25  			$mailOpinion->setUploadedImage($image);\n   26  			$mailOpinion->save();\n   27: 			return new NoCacheRenderedPage($mailOpinion->id);\n   28  		}\n   29: 		return new NoCacheRenderedPage('File not set', 500);\n   30  	}\n   31  \n   ..\n   34  		$mailOpinion = $this->getMailOpinionFromRequest($request);\n   35  		if ($mailOpinion === null) {\n   36: 			return new NoCacheRenderedPage('opinion not found', 400);\n   37  		}\n   38  		$mailOpinion->delete();\n   39: 		return new NoCacheRenderedPage('ok');\n   40  	}\n   41  \n   ..\n   44  		$mailOpinion = $this->getMailOpinionFromRequest($request);\n   45  		if ($mailOpinion === null) {\n   46: 			return new NoCacheRenderedPage('opinion not found', 400);\n   47  		}\n   48  		if (!$request->request->has('alt')) {\n   49: 			return new NoCacheRenderedPage('alt not set', 400);\n   50  		}\n   51  		$mailOpinion->alt = $request->request->get('alt');\n   52  		$mailOpinion->save();\n   53: 		return new NoCacheRenderedPage('ok');\n   54  	}\n   55  \n   ..\n   67  		$order = $request->request->get('opinions');\n   68  		if ($order === null) {\n   69: 			return new NoCacheRenderedPage('opinons not specified', 500);\n   70  		}\n   71  		$i = 0;\n   ..\n   76  			$i++;\n   77  		}\n   78: 		return new NoCacheRenderedPage('ok');\n   79  	}\n   80  }\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php:\n    9  		}\n   10  		if(isset($_SESSION['autocomplate'])) {\n   11: 			return new NoCacheRenderedPage(json_encode($_SESSION['autocomplate']));\n   12  		}\n   13: 		return new NoCacheRenderedPage(json_encode([]));\n   14  	}\n   15  \n\n/var/www/prostorad/prostorad/code/inc/vendor/composer/autoload_classmap.php:\n  502      'prostorad\\\\Admin\\\\Mail\\\\MailTemplatePartnerFactory' => $baseDir . '/prostorad/Admin/Mail/MailTemplatePartnerFactory.php',\n  503      'prostorad\\\\Admin\\\\Mail\\\\MailTemplateRenderInterface' => $baseDir . '/prostorad/Admin/Mail/MailTemplateRenderInterface.php',\n  504:     'prostorad\\\\Admin\\\\NoCacheRenderedPage' => $baseDir . '/prostorad/Admin/NoCacheRenderedPage.php',\n  505      'prostorad\\\\Admin\\\\Opinions\\\\MailOpinionsController' => $baseDir . '/prostorad/Admin/Opinions/MailOpinionsController.php',\n  506      'prostorad\\\\Admin\\\\Orders\\\\Deadline' => $baseDir . '/prostorad/Admin/Orders/Deadline.php',\n\n22 matches across 6 files\n\n\nSearching 41725 files for \"NoCacheRenderedPage\"\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php:\n   10  	protected function render($template, $options = [])\n   11  	{\n   12: 		$response = new NoCacheRenderedPage();\n   13  		$response->setContent(\\TwigSingleton::getInstance()->renderMinified($template, $options));\n   14  		return $response;\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php:\n    6  use prostorad\\Controller\\RenderedPage;\n    7  \n    8: class NoCacheRenderedPage extends RenderedPage\n    9  {\n   10  	public $noCache = true;\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Mail/MailTemplateController.php:\n    5  \n    6  use OrderItemFactory;\n    7: use prostorad\\Admin\\NoCacheRenderedPage;\n    8  use Symfony\\Component\\HttpFoundation\\Request;\n    9  \n   ..\n   16  		$itemId = $post->get('itemId');\n   17  		if ($orderId === null || $itemId === null) {\n   18: 			return new NoCacheRenderedPage('orderitem id not set', 400);\n   19  		}\n   20  		$orderItem = OrderItemFactory::getByOrderIdAndSuborderId($orderId, $itemId);\n   21  		if ($orderItem === null) {\n   22: 			return new NoCacheRenderedPage('orderitem not found', 400);\n   23  		}\n   24  		$templateName = $post->get('templateName');\n   ..\n   26  			$partnerId = $post->get('partnerId');\n   27  			if ($partnerId === null) {\n   28: 				return new NoCacheRenderedPage('partnerId not set', 400);\n   29  			}\n   30  			$template = MailTemplatePartnerFactory::getById($partnerId);\n   ..\n   34  		}\n   35  		if ($template === null) {\n   36: 			return new NoCacheRenderedPage('template not found', 400);\n   37  		}\n   38  		$draft = $template->render(\n   ..\n   42  			$post->get('draftId')\n   43  		);\n   44: 		return new NoCacheRenderedPage(json_encode($draft, JSON_UNESCAPED_UNICODE));\n   45  	}\n   46  }\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Opinions/MailOpinionsController.php:\n    4  \n    5  use prostorad\\Admin\\AdminController;\n    6: use prostorad\\Admin\\NoCacheRenderedPage;\n    7  use prostorad\\Otzyvy\\MailOpinion;\n    8  use prostorad\\Otzyvy\\MailOpinionFactory;\n    .\n   25  			$mailOpinion->setUploadedImage($image);\n   26  			$mailOpinion->save();\n   27: 			return new NoCacheRenderedPage($mailOpinion->id);\n   28  		}\n   29: 		return new NoCacheRenderedPage('File not set', 500);\n   30  	}\n   31  \n   ..\n   34  		$mailOpinion = $this->getMailOpinionFromRequest($request);\n   35  		if ($mailOpinion === null) {\n   36: 			return new NoCacheRenderedPage('opinion not found', 400);\n   37  		}\n   38  		$mailOpinion->delete();\n   39: 		return new NoCacheRenderedPage('ok');\n   40  	}\n   41  \n   ..\n   44  		$mailOpinion = $this->getMailOpinionFromRequest($request);\n   45  		if ($mailOpinion === null) {\n   46: 			return new NoCacheRenderedPage('opinion not found', 400);\n   47  		}\n   48  		if (!$request->request->has('alt')) {\n   49: 			return new NoCacheRenderedPage('alt not set', 400);\n   50  		}\n   51  		$mailOpinion->alt = $request->request->get('alt');\n   52  		$mailOpinion->save();\n   53: 		return new NoCacheRenderedPage('ok');\n   54  	}\n   55  \n   ..\n   67  		$order = $request->request->get('opinions');\n   68  		if ($order === null) {\n   69: 			return new NoCacheRenderedPage('opinons not specified', 500);\n   70  		}\n   71  		$i = 0;\n   ..\n   76  			$i++;\n   77  		}\n   78: 		return new NoCacheRenderedPage('ok');\n   79  	}\n   80  }\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php:\n   11  		}\n   12  		if(isset($_SESSION['autocomplate'])) {\n   13: 			return new NoCacheRenderedPage(json_encode($_SESSION['autocomplate']));\n   14  		}\n   15: 		return new NoCacheRenderedPage(json_encode([]));\n   16  	}\n   17  \n\n/var/www/prostorad/prostorad/code/inc/vendor/composer/autoload_classmap.php:\n  502      'prostorad\\\\Admin\\\\Mail\\\\MailTemplatePartnerFactory' => $baseDir . '/prostorad/Admin/Mail/MailTemplatePartnerFactory.php',\n  503      'prostorad\\\\Admin\\\\Mail\\\\MailTemplateRenderInterface' => $baseDir . '/prostorad/Admin/Mail/MailTemplateRenderInterface.php',\n  504:     'prostorad\\\\Admin\\\\NoCacheRenderedPage' => $baseDir . '/prostorad/Admin/NoCacheRenderedPage.php',\n  505      'prostorad\\\\Admin\\\\Opinions\\\\MailOpinionsController' => $baseDir . '/prostorad/Admin/Opinions/MailOpinionsController.php',\n  506      'prostorad\\\\Admin\\\\Orders\\\\Deadline' => $baseDir . '/prostorad/Admin/Orders/Deadline.php',\n\n22 matches across 6 files\n\n\nSearching 41725 files for \"NoCacheRenderedPage\"\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php:\n   10  	protected function render($template, $options = [])\n   11  	{\n   12: 		$response = new NoCacheRenderedPage();\n   13  		$response->setContent(\\TwigSingleton::getInstance()->renderMinified($template, $options));\n   14  		return $response;\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php:\n    6  use prostorad\\Controller\\RenderedPage;\n    7  \n    8: class NoCacheRenderedPage extends RenderedPage\n    9  {\n   10  	public $noCache = true;\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Mail/MailTemplateController.php:\n    5  \n    6  use OrderItemFactory;\n    7: use prostorad\\Admin\\NoCacheRenderedPage;\n    8  use Symfony\\Component\\HttpFoundation\\Request;\n    9  \n   ..\n   16  		$itemId = $post->get('itemId');\n   17  		if ($orderId === null || $itemId === null) {\n   18: 			return new NoCacheRenderedPage('orderitem id not set', 400);\n   19  		}\n   20  		$orderItem = OrderItemFactory::getByOrderIdAndSuborderId($orderId, $itemId);\n   21  		if ($orderItem === null) {\n   22: 			return new NoCacheRenderedPage('orderitem not found', 400);\n   23  		}\n   24  		$templateName = $post->get('templateName');\n   ..\n   26  			$partnerId = $post->get('partnerId');\n   27  			if ($partnerId === null) {\n   28: 				return new NoCacheRenderedPage('partnerId not set', 400);\n   29  			}\n   30  			$template = MailTemplatePartnerFactory::getById($partnerId);\n   ..\n   34  		}\n   35  		if ($template === null) {\n   36: 			return new NoCacheRenderedPage('template not found', 400);\n   37  		}\n   38  		$draft = $template->render(\n   ..\n   42  			$post->get('draftId')\n   43  		);\n   44: 		return new NoCacheRenderedPage(json_encode($draft, JSON_UNESCAPED_UNICODE));\n   45  	}\n   46  }\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Opinions/MailOpinionsController.php:\n    4  \n    5  use prostorad\\Admin\\AdminController;\n    6: use prostorad\\Admin\\NoCacheRenderedPage;\n    7  use prostorad\\Otzyvy\\MailOpinion;\n    8  use prostorad\\Otzyvy\\MailOpinionFactory;\n    .\n   25  			$mailOpinion->setUploadedImage($image);\n   26  			$mailOpinion->save();\n   27: 			return new NoCacheRenderedPage($mailOpinion->id);\n   28  		}\n   29: 		return new NoCacheRenderedPage('File not set', 500);\n   30  	}\n   31  \n   ..\n   34  		$mailOpinion = $this->getMailOpinionFromRequest($request);\n   35  		if ($mailOpinion === null) {\n   36: 			return new NoCacheRenderedPage('opinion not found', 400);\n   37  		}\n   38  		$mailOpinion->delete();\n   39: 		return new NoCacheRenderedPage('ok');\n   40  	}\n   41  \n   ..\n   44  		$mailOpinion = $this->getMailOpinionFromRequest($request);\n   45  		if ($mailOpinion === null) {\n   46: 			return new NoCacheRenderedPage('opinion not found', 400);\n   47  		}\n   48  		if (!$request->request->has('alt')) {\n   49: 			return new NoCacheRenderedPage('alt not set', 400);\n   50  		}\n   51  		$mailOpinion->alt = $request->request->get('alt');\n   52  		$mailOpinion->save();\n   53: 		return new NoCacheRenderedPage('ok');\n   54  	}\n   55  \n   ..\n   67  		$order = $request->request->get('opinions');\n   68  		if ($order === null) {\n   69: 			return new NoCacheRenderedPage('opinons not specified', 500);\n   70  		}\n   71  		$i = 0;\n   ..\n   76  			$i++;\n   77  		}\n   78: 		return new NoCacheRenderedPage('ok');\n   79  	}\n   80  }\n\n/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php:\n   11  		}\n   12  		if(isset($_SESSION['autocomplate'])) {\n   13: 			return new NoCacheRenderedPage(json_encode($_SESSION['autocomplate']));\n   14  		}\n   15: 		return new NoCacheRenderedPage(json_encode([]));\n   16  	}\n   17  \n\n/var/www/prostorad/prostorad/code/inc/vendor/composer/autoload_classmap.php:\n  502      'prostorad\\\\Admin\\\\Mail\\\\MailTemplatePartnerFactory' => $baseDir . '/prostorad/Admin/Mail/MailTemplatePartnerFactory.php',\n  503      'prostorad\\\\Admin\\\\Mail\\\\MailTemplateRenderInterface' => $baseDir . '/prostorad/Admin/Mail/MailTemplateRenderInterface.php',\n  504:     'prostorad\\\\Admin\\\\NoCacheRenderedPage' => $baseDir . '/prostorad/Admin/NoCacheRenderedPage.php',\n  505      'prostorad\\\\Admin\\\\Opinions\\\\MailOpinionsController' => $baseDir . '/prostorad/Admin/Opinions/MailOpinionsController.php',\n  506      'prostorad\\\\Admin\\\\Orders\\\\Deadline' => $baseDir . '/prostorad/Admin/Orders/Deadline.php',\n\n22 matches across 6 files\n\n\nSearching 41725 files for \"<ul class=\"videos\">\"\n\n/var/www/prostorad/prostorad/code/inc/pages/organizacija-sjurprizov.inc.php:\n   85  \n   86  </div>\n   87: <ul class=\"videos\">\n   88  	<li><?php echo Formats::youTube('87j5P-UOeS0'); ?> </li>\n   89  	<li><?php echo Formats::youTube('H79OJYXqGdM'); ?></li>\n\n1 match in 1 file\n",
 					"settings":
 					{
-						"buffer_size": 764,
+						"buffer_size": 13652,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/var/www/prostorad/prostorad/code/inc/pages/organizacija-sjurprizov.inc.php",
+					"settings":
+					{
+						"buffer_size": 3650,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/greshnik/projects/btrxtogoogle/composer.json",
+					"file": "/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php",
 					"settings":
 					{
-						"buffer_size": 75,
+						"buffer_size": 320,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/greshnik/projects/btrxtogoogle/test.txt",
+					"file": "/var/www/prostorad/prostorad/sys/app/routes/main.yml",
 					"settings":
 					{
-						"buffer_size": 7,
+						"buffer_size": 2150,
 						"line_ending": "Unix"
 					}
 				}
@@ -1334,22 +1852,10 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "php",
+				"height": 201.0,
+				"last_filter": "git comm",
 				"selected_items":
 				[
-					[
-						"php",
-						"SublimeREPL: PHP"
-					],
-					[
-						"js",
-						"Javascript Beautify"
-					],
-					[
-						"prett",
-						"HTMLPrettify"
-					],
 					[
 						"git comm",
 						"Git: Commit"
@@ -1359,8 +1865,48 @@
 						"Git: Add..."
 					],
 					[
+						"git add ..",
+						"Git: Add..."
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
 						"comm",
 						"Git: Commit"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git ci",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"Javascript Beautify"
+					],
+					[
+						"addd",
+						"Project: Add Folder"
+					],
+					[
+						"php",
+						"SublimeREPL: PHP"
+					],
+					[
+						"prett",
+						"HTMLPrettify"
 					],
 					[
 						"add",
@@ -1403,10 +1949,6 @@
 						"SVN: Update"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"com",
 						"SVN: Commit…"
 					],
@@ -1425,10 +1967,6 @@
 					[
 						"reveal",
 						"File: Reveal"
-					],
-					[
-						"git",
-						"Git: Init"
 					],
 					[
 						"ins",
@@ -1473,139 +2011,149 @@
 			},
 			"expanded_folders":
 			[
-				"/home/greshnik/projects/btrxtogoogle",
-				"/home/greshnik/projects/btrxtogoogle/vendor"
+				"/var/www/prostorad/prostorad",
+				"/var/www/prostorad/prostorad/code",
+				"/var/www/prostorad/prostorad/code/inc",
+				"/var/www/prostorad/prostorad/code/inc/assets",
+				"/var/www/prostorad/prostorad/code/inc/assets/js",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi",
+				"/var/www/prostorad/prostorad/code/inc/prostorad",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Socket",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Otzyvy"
 			],
 			"file_history":
 			[
-				"/tmp/fz3temp-1/auth.php",
-				"/var/www/netcat/netcat/admin/lang/Russian_utf8.php",
-				"/var/www/netcat/vars.inc.php",
-				"/var/www/netcat/netcat/admin/js/main.js",
-				"/var/www/netcat/netcat/admin/widget/function.inc.php",
-				"/var/www/netcat/netcat/modules/default/my.php",
-				"/home/greshnik/projects/dayzcheat/main.js",
-				"/home/greshnik/projects/dayzcheat/common-script.js",
-				"/tmp/fz3temp-1/back.php",
-				"/var/www/netcat/reposter/vk/VKException.php",
-				"/var/www/netcat/reposter/config.php",
-				"/var/www/netcat/sftp-config.json",
-				"/var/www/netcat/reposter/token",
-				"/tmp/fz3temp-1/index.php",
-				"/var/www/netcat/config.php",
-				"/var/www/netcat/index.php",
-				"/var/www/netcat/auth.php",
-				"/var/www/netcat/vk/VKException.php",
-				"/var/www/netcat/token",
-				"/var/www/netcat/vk/config.php",
-				"/tmp/fz3temp-1/template.php",
-				"/tmp/fz3temp-1/template 3.php",
-				"/tmp/fz3temp-1/component.php",
-				"/tmp/fz3temp-1/index 2.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Mail/MailTemplateController.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Opinions/MailOpinionsController.php",
+				"/var/www/prostorad/prostorad/code/inc/vendor/composer/autoload_classmap.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminRenderedPage.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php",
+				"/var/www/prostorad/prostorad/sys/app/routes/main.yml",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi.js",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/forms/zvonki.inc",
+				"/var/www/prostorad/prostorad/code/autoComplateFields.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/usluga.php",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/main.js",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/autocomplete.js",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/autocomplete.coffee",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AjaxController.php",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi/uslugi.js",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi/dostavka-cvetov.js",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/BaseController.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Otzyvy/VKOpinionsController.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Order.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/OrderFactory.php",
+				"/var/www/prostorad/prostorad/.gitignore",
+				"/var/www/prostorad/prostorad/code/service-order.php",
+				"/var/www/prostorad/prostorad/admin/orders/index.php",
+				"/var/www/prostorad/prostorad/admin/utils/orders.css",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Socket/OrderEditManager.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/kontakty.inc.php",
+				"/var/www/prostorad/prostorad/admin/pages/editform.php",
+				"/var/www/prostorad/prostorad/code/feedback.php",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/admin/orders.js",
+				"/var/www/alexcrm/index.html",
+				"/var/www/prostorad/prostorad/code/inc/assets/js/admin/phpSocket.coffee",
+				"/var/www/prostorad/prostorad/admin/utils/js/orders.js",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Mailer.php",
+				"/var/www/prostorad/prostorad/code/suggestions.php",
+				"/var/www/prostorad/prostorad/code/idea-order.php",
+				"/var/www/prostorad/prostorad/admin/orders/change_grafik_link.php",
+				"/var/www/prostoapp/basic/models/Directory.php",
+				"/var/www/prostoapp/basic/web/js/bootstrap-treeview.js",
+				"/var/www/prostoapp/basic/web/js/bootstrap-contextmenu.js",
+				"/var/www/prostoapp/basic/models/Folder.php",
+				"/var/www/prostoapp/basic/models/PersonRole.php",
+				"/var/www/prostoapp/basic/controllers/DirectoryController.php",
+				"/var/www/prostoapp/basic/helper/TreeNodeFabric.php",
+				"/var/www/prostoapp/basic/views/directory/addpersonrole.php",
+				"/var/www/prostoapp/basic/migrations/m150616_075738_create_folder_table.php",
+				"/var/www/prostoapp/basic/views/directory/addfolder.php",
+				"/var/www/prostoapp/basic/views/directory/viewfolder.php",
+				"/var/www/prostoapp/basic/web/js/main.js",
+				"/var/www/prostoapp/basic/migrations/m150622_190416_create_table_peronRole.php",
+				"/tmp/fz3temp-1/.htaccess",
+				"/var/www/prostoapp/basic/web/assets/d5e8b7b6/yii.activeForm.js",
+				"/var/www/prostoapp/basic/views/layouts/main.php",
+				"/var/www/prostoapp/basic/controllers/CallController.php",
+				"/var/www/prostoapp/basic/views/directory/index.php",
+				"/var/www/prostoapp/basic/controllers/SiteController.php",
+				"/var/www/prostoapp/basic/models/Calls.php",
+				"/var/www/prostoapp/basic/migrations/m150616_074016_create_directory_table.php",
+				"/var/www/prostoapp/basic/assets/AppAsset.php",
+				"/var/www/prostoapp/basic/web/index.php",
+				"/var/www/prostoapp/basic/config/console.php",
+				"/var/www/prostoapp/basic/config/web.php",
+				"/var/www/prostoapp/basic/yii",
+				"/var/www/prostoapp/basic/config/db.php",
+				"/var/www/prostoapp/basic/vendor/yiisoft/yii2/BaseYii.php",
+				"/var/www/prostoapp/basic/models/Contract.php",
+				"/var/www/prostoapp/basic/views/site/index.php",
+				"/var/www/prostoapp/basic/migrations/m150608_140327_create_contract_table.php",
+				"/var/www/prostoapp/basic/migrations/m150608_132020_create_sample_table.php",
+				"/var/www/prostoapp/basic/views/sample/index.php",
+				"/var/www/prostoapp/basic/views/sample/update.php",
+				"/var/www/prostoapp/basic/views/sample/_form.php",
+				"/var/www/prostoapp/basic/views/sample/create.php",
+				"/var/www/prostoapp/basic/views/sample/view.php",
+				"/var/www/prostoapp/basic/migrations/m150608_124318_create_calls_table.php",
+				"/var/www/prostoapp/basic/models/Samples.php",
+				"/var/www/prostoapp/basic/views/call/index.php",
+				"/var/www/prostoapp/basic/views/call/create.php",
+				"/var/www/prostoapp/basic/views/call/update.php",
+				"/var/www/prostoapp/basic/views/call/_form.php",
+				"/var/www/prostoapp/basic/views/call/view.php",
+				"/var/www/prostoapp/basic/commands/RbacController.php",
+				"/var/www/prostoapp/basic/views/site/main.php",
+				"/var/www/prostoapp/basic/models/User.php",
+				"/var/www/prostoapp/basic/models/LoginForm.php",
+				"/var/www/prostoapp/basic/migrations/m150605_125121_create_call_table.php",
+				"/var/www/prostoapp/basic/web/css/site.css",
+				"/tmp/fz3temp-1/index 4.php",
 				"/tmp/fz3temp-1/index 3.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/greshnik/.config/sublime-text-3/Packages/Git Conflict Resolver/GitConflictResolver.sublime-settings",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/policies.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/policies/sessionAuth.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Games.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/models.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/views/main/index.ejs",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/strategy.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/steam-web/lib/steam.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/views/auth/login.ejs",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/routes.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/connections.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/grunt-sails-linker/test/scriptlinker_test.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/session.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/User.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/models/Passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-steam/lib/passport-steam/index.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/config/bootstrap.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/oauth2.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/protocols/openid.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/controllers/AuthController.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/services/.gitkeep",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/passport-twitter/lib/errors/apierror.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/pkginfo/examples/all-properties.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/app.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails-generate-auth/templates/api/services/passport.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/express/node_modules/connect/node_modules/serve-index/node_modules/accepts/node_modules/mime-types/package.json",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/prompt/node_modules/revalidator/example/webservice.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/api/responses/serverError.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/node_modules/sails/node_modules/sails-hook-sockets/lib/prepare-adapter.js",
-				"/home/greshnik/projects/sails/mysquad/mysquad/package.json",
-				"/tmp/fz3temp-1/log",
-				"/tmp/fz3temp-1/config.php",
-				"/tmp/fz3temp-1/lendings 2.csv",
-				"/tmp/fz3temp-1/lendings.csv",
-				"/var/www/mailer/jsonp/landing.php",
-				"/tmp/fz3temp-1/affiliate_panel.php",
-				"/tmp/fz3temp-1/babyliss.tpl",
-				"/tmp/fz3temp-1/smarty_internal_write_file.php",
-				"/tmp/fz3temp-1/index-2.tpl",
-				"/tmp/fz3temp-1/index.tpl",
-				"/tmp/fz3temp-1/cron.php",
-				"/tmp/fz3temp-1/landing.php",
-				"/tmp/fz3temp-1/log02.16.2015.15.csv",
-				"/tmp/fz3temp-1/1c_exchange.php",
-				"/tmp/fz3temp-1/orders-001aed75-640a-482a-acb6-6da0b5ab62ed.xml",
-				"/tmp/fz3temp-1/path_to_metrika.php",
-				"/tmp/fz3temp-1/main.js",
-				"/tmp/fz3temp-1/log02.11.2015.csv",
-				"/tmp/fz3temp-1/log.csv",
-				"/tmp/fz3temp-1/log02.07.2015.csv",
-				"/tmp/fz3temp-1/chasy-ferrary.tpl",
-				"/tmp/fz3temp-1/affiliate_class.php",
-				"/tmp/fz3temp-1/resize.php",
-				"/var/www/mailer/cron3.php",
-				"/var/www/mailer/cron2.php",
-				"/var/www/mailer/newsletter.php",
-				"/var/www/mailer/js/main.js",
-				"/var/www/mailer/editnewsletter.php",
+				"/tmp/fz3temp-1/index 2.php",
+				"/var/www/prostoapp/.hgignore",
+				"/tmp/fz3temp-1/index.php",
+				"/var/www/prostoapp/basic/composer.json",
+				"/var/www/prostoapp/basic/migrations/m150604_133355_create_user_table.php",
+				"/var/www/mailer2/mailers/basic/views/site/index.php",
+				"/var/www/mailer2/mailers/basic/views/site/addmailer.php",
+				"/var/www/mailer2/mailers/basic/models/Listemails.php",
+				"/var/www/mailer2/mailers/basic/controllers/SiteController.php",
+				"/var/www/mailer2/mailers/basic/models/TemplateForm.php",
+				"/var/www/mailer2/mailers/basic/models/Templates.php",
+				"/var/www/mailer2/mailers/basic/models/Addressbook.php",
+				"/var/www/mailer2/mailers/basic/config/web.php",
+				"/var/www/mailer2/mailers/basic/models/Mailers.php",
+				"/var/www/mailer2/mailers/basic/models/MailerForm.php",
 				"/var/www/mailer/classes/functions.php",
-				"/var/www/mailer/test2.php",
-				"/var/www/mailer/jsonp/script.js",
-				"/tmp/fz3temp-1/IndexAdmin.php",
-				"/var/www/mailer/files/landing.csv",
+				"/var/www/mailer2/mailers/basic/views/site/addtemplate.php",
+				"/var/www/mailer2/mailers/basic/components/ApiEmailComponent.php",
+				"/var/www/mailer2/mailers/basic/web/index.php",
+				"/var/www/mailer2/mailers/basic/config/db.php",
+				"/var/www/mailer2/mailers/basic/commands/MailerController.php",
 				"/var/www/mailer/classes/api-email.php",
 				"/var/www/mailer/cron.php",
-				"/tmp/fz3temp-1/Report.php",
-				"/tmp/fz3temp-1/admin.php",
-				"/tmp/fz3temp-1/FormatHelper.php",
-				"/tmp/fz3temp-1/cron2.php",
-				"/tmp/fz3temp-1/EstateobjectController.php",
-				"/tmp/fz3temp-1/EstateObject.php",
-				"/tmp/fz3temp-1/ReportController.php",
-				"/tmp/fz3temp-1/cron3.php",
-				"/tmp/fz3temp-1/nginx.conf",
-				"/home/greshnik/tmp/mrandom.com/config/config.js",
-				"/home/greshnik/tmp/mrandom.com/node-mrandom.com",
-				"/home/greshnik/tmp/mrandom.com/models/Taxonomy.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/lib/reporters/json-stream.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/mocha/node_modules/.bin/jade",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/tablenew.ect",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/allnew.ect",
-				"/home/greshnik/tmp/mrandom.com/controllers/contest/index.js",
-				"/home/greshnik/tmp/mrandom.com/controllers/notification/index.js",
-				"/home/greshnik/tmp/mrandom.com/models/Notification.js",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/card/table.ect",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/all.ect",
-				"/home/greshnik/tmp/mrandom.com/app.js",
-				"/home/greshnik/tmp/mrandom.com/models/Contest.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly-tests.js",
-				"/home/greshnik/tmp/mrandom.com/node_modules/url/node_modules/punycode/vendor/requirejs/tests/plugins/nameOnly.html",
-				"/tmp/fz3temp-1/index.js",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/comment/list.ect",
-				"/home/greshnik/tmp/mrandom.com/themes/mrnd/partials/contest/single.ect",
-				"/tmp/fz3temp-1/winners.ect",
-				"/home/greshnik/temp.php",
-				"/tmp/fz3temp-1/readme.txt",
-				"/tmp/fz3temp-1/uploadify_wp.php",
-				"/tmp/fz3temp-1/create.ect",
-				"/tmp/fz3temp-1/actionads.php",
-				"/tmp/fz3temp-1/acceptads.php"
+				"/var/www/mailer2/mailers/basic/web/js/main.js",
+				"/var/www/mailer2/mailers/basic/components",
+				"/var/www/mailer2/mailers/basic/composer.json",
+				"/var/www/mailer/report.php",
+				"/var/www/mailer2/mailers/basic/assets/AppAsset.php",
+				"/var/www/mailer2/mailers/basic/views/site/reports.php",
+				"/var/www/mailer2/mailers/basic/commands/RbacController.php",
+				"/var/www/mailer2/mailers/.hgignore",
+				"/var/www/mailer2/mailers/basic/migrations/m150601_040226_template_text_field.php",
+				"/var/www/mailer2/mailers/basic/views/site/accounts.php",
+				"/var/www/mailer2/mailers/composer.json",
+				"/var/www/mailer2/mailers/basic/rbac/UserGroupRule.php",
+				"/var/www/mailer2/mailers/basic/models/Account.php",
+				"/var/www/mailer2/mailers/basic/models/AccountForm.php",
+				"/var/www/mailer2/mailers/basic/views/site/addaccount.php"
 			],
 			"find":
 			{
@@ -1626,134 +2174,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"$service",
-					"class=\"nc_row\"",
-					"f_Priority",
-					"NETCAT_MODERATION_INFO_REQFIELDS",
-					"Звездочкой (*) отмечены поля, обязательные для заполнения.",
-					"<li class=\"button_on\" id=\"nc_show_main\" onclick=\"return false;\">Основное</li>",
-					"drawnPolygonEventsGeometryChange",
-					"resetPolygonDrawing",
-					"addPolygonOnMap",
-					"saveData",
-					"addPolygonOnMap",
-					"#save",
-					"map",
-					"UpdateClearButton",
-					"GDouglasPeucker",
-					".png",
-					"mapInit",
-					"http",
-					"callMethod",
-					"checkAccessToken",
-					"VKEx",
-					"id=\"request-a-call\"",
+					"<ul class=\"videos\">",
+					"NoCacheRenderedPage",
+					"AdminRenderedPage",
+					"AjaxController",
+					"RenderedPage",
+					"RenderedResponse",
+					"VKOpinionsController",
+					"$request",
+					"window.autocomplete",
+					"$_SESSION['autocomplate']",
+					"__name",
+					"__tel",
+					"__pname",
+					"hrtdu767ii",
+					"addChar",
+					"Имя человека, которому звоним",
+					"Заполните поля",
+					"processRegionChange",
+					"regionselectedorder",
+					"cityinput",
+					"phpSocket",
+					"options.city",
+					"options.orderId",
+					"Session.prototype.publish",
+					"publish ",
+					"cityinput",
+					"saveCityField",
+					"rd(",
+					"rt(",
+					"ordertypeselect",
+					"saveCityField",
+					"citysave",
+					"rg(",
+					"wrapp",
+					"partnerSelect",
+					"tf",
+					"tf (",
+					"tf(",
+					"#wrappp",
+					"').",
+					"wrapppp",
+					"wrappp",
+					"wrapppp",
+					"body",
+					"wrapper",
+					"rg",
+					"citywindow",
+					"citysave",
+					"citywindow",
+					"citysave",
+					"oldcustomer->channel",
+					"channel",
+					"zah",
+					"oldcustomer->channel",
+					"chan",
+					"class=\"cha",
+					"Ссылка+Ключ / Стр. входа",
+					"oldcustomer",
+					"createByCustomer",
+					"New OrderItem",
+					"settings_options",
+					"BB",
+					"kontakty",
+					"kontakty.inc",
+					"id=\"bergen-name\"",
+					"Так же вы можете отправить нам любое сообщение, просьбу, вопрос по этой форме:",
+					"tree",
+					"node",
+					"glyphicon-",
+					"glyphicon-folder-open",
+					"nodeExpanded",
+					"onNodeExpanded",
+					"nodeExpanded",
+					"onNodeExpanded",
+					"tree",
+					"prepareData",
+					"tree",
+					"nodes",
+					"render ",
+					"getSiblings",
+					"nodes =",
+					"tree =",
+					"activeNode",
+					"findNode",
+					"onNodeExpanded",
+					"deleted",
+					"this.tree",
+					"build",
+					"new Tree",
+					"pluginName",
+					"data",
+					"buildTree",
+					"add",
+					"render",
+					"activeNode",
+					"find",
+					"delete",
+					"styleId",
+					"remove",
+					"find",
+					"function",
+					"');\n",
+					"find",
+					"w0",
+					"directory-addfolder",
+					"methods.init",
+					"submitForm",
+					"submitting",
+					"                console.log(event.result);\nsubmit",
+					"submit",
 					");\n",
-					"tableOptions",
-					"id=\"date-range-select\"",
-					"date-range-select",
-					"left-axis-metrics",
-					"console.log",
-					"console",
-					"сравнить",
-					"compare-box",
-					"localMetrics",
-					"getDateRange",
-					"download",
-					"ISteamNews",
-					"getOwnedGames",
-					"GetOwnedGames",
-					" username nor email was available",
-					"Error: Neither a username nor email was available",
-					"RememberMeStrategy",
-					"console.log",
-					"passport.connect",
-					"connect",
-					"AuthController",
-					"passport.use",
-					"asdbogch",
-					"Empty private",
-					"sale",
-					"success",
-					"ons",
-					"Письмо открыто",
-					"BASE_URL",
-					"Empty private key",
-					"listmailers",
-					"model",
-					"redirectPhp",
-					"getPagination",
-					"listMy",
-					"my/",
-					"memory_cache",
-					"cache",
-					"showOldById",
-					"ContestMysql",
-					"logg",
-					"playContest",
-					"logger",
-					"ect_watch",
-					"env",
-					"development",
-					"playContest",
-					"showWinnersById",
-					"type",
-					"Contest.count",
-					"count",
-					"Taxonomy",
-					"showAll",
-					"showById",
-					"contest/all",
-					"showAllNew",
-					"showAll",
-					"Конкурс еще не",
-					"showWinnersById",
-					"showById",
-					"/contest/",
-					"echo",
-					"Contest.find",
-					".find",
-					"showWinnersById",
-					"winners",
-					"execu",
-					"function isManag",
-					"isManager",
-					"шыЬфтфпук",
-					"edit",
-					"id=\"mainMbMenu\"",
-					"table",
-					"getUserId",
-					"getUser",
-					"project.*",
-					"project.zakaz",
-					"modules.project",
-					"fbf2fb988cdf413b8e5b32ba208464e2",
-					"fn_selfActions.sqf",
-					"dayzPlayerLogin2 = [_worldspace,_state];",
-					"_randomSpot",
-					"dayz_recordLogin",
-					"DefaultBackpack",
-					"DefaultWeapons",
-					"DefaultMagazines",
-					"dayz_paraSpawn",
-					"dayz_spawnselection",
-					"VM",
-					"preProcessFileLineNumbers",
-					"migrate:",
-					"h1",
-					"Персональные данные",
-					"<p>Персональные данные</p>",
-					"panelButtonMessageCount",
-					"style=\"height: 27px;\"",
-					"personal.friends_online",
-					"<p>Профиль</p>",
-					"Игровая почта",
-					"class=\"profile_avatar\"",
-					"profile_mail",
-					"IS_UNREAD_COUNT",
-					"socialnetwork.user_friends",
-					"<p>Профиль</p>",
-					"style=\"font-weight: bold;\""
+					"beforeSubmit",
+					"            \n",
+					"ContextMenu",
+					"data",
+					"getTree",
+					"'YII_ENV', 'prod'",
+					"YII_ENV",
+					"clickHandler",
+					"nodeSelected",
+					"click",
+					"nodeSelected",
+					"onNodeSelected",
+					"onSe",
+					"node-icon",
+					"indent",
+					"template.indent",
+					");\n"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1761,6 +2309,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"NoCacheRenderedPage",
+					"$this->apiEmail",
+					"$apiEmail"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1771,30 +2322,30 @@
 			"folders":
 			[
 				{
-					"path": "/home/greshnik/projects/btrxtogoogle"
+					"path": "/var/www/prostorad/prostorad"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/greshnik/projects/btrxtogoogle/index.php",
+							"file": "/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2031,
+								"buffer_size": 349,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1281,
-										1281
+										190,
+										190
 									]
 								],
 								"settings":
@@ -1803,6 +2354,594 @@
 									"auto_complete": false,
 									"bh_regions":
 									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 398,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										175,
+										175
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13652,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												219,
+												238
+											],
+											[
+												516,
+												535
+											],
+											[
+												750,
+												769
+											],
+											[
+												954,
+												973
+											],
+											[
+												1158,
+												1177
+											],
+											[
+												1384,
+												1403
+											],
+											[
+												1587,
+												1606
+											],
+											[
+												1753,
+												1772
+											],
+											[
+												2009,
+												2028
+											],
+											[
+												2228,
+												2247
+											],
+											[
+												2298,
+												2317
+											],
+											[
+												2491,
+												2510
+											],
+											[
+												2602,
+												2621
+											],
+											[
+												2780,
+												2799
+											],
+											[
+												2906,
+												2925
+											],
+											[
+												3069,
+												3088
+											],
+											[
+												3227,
+												3246
+											],
+											[
+												3359,
+												3378
+											],
+											[
+												3573,
+												3592
+											],
+											[
+												3665,
+												3684
+											],
+											[
+												4099,
+												4118
+											],
+											[
+												4152,
+												4171
+											],
+											[
+												4662,
+												4681
+											],
+											[
+												4959,
+												4978
+											],
+											[
+												5193,
+												5212
+											],
+											[
+												5397,
+												5416
+											],
+											[
+												5601,
+												5620
+											],
+											[
+												5827,
+												5846
+											],
+											[
+												6030,
+												6049
+											],
+											[
+												6196,
+												6215
+											],
+											[
+												6452,
+												6471
+											],
+											[
+												6671,
+												6690
+											],
+											[
+												6741,
+												6760
+											],
+											[
+												6934,
+												6953
+											],
+											[
+												7045,
+												7064
+											],
+											[
+												7223,
+												7242
+											],
+											[
+												7349,
+												7368
+											],
+											[
+												7512,
+												7531
+											],
+											[
+												7670,
+												7689
+											],
+											[
+												7802,
+												7821
+											],
+											[
+												8016,
+												8035
+											],
+											[
+												8108,
+												8127
+											],
+											[
+												8542,
+												8561
+											],
+											[
+												8595,
+												8614
+											],
+											[
+												9105,
+												9124
+											],
+											[
+												9402,
+												9421
+											],
+											[
+												9636,
+												9655
+											],
+											[
+												9840,
+												9859
+											],
+											[
+												10044,
+												10063
+											],
+											[
+												10270,
+												10289
+											],
+											[
+												10473,
+												10492
+											],
+											[
+												10639,
+												10658
+											],
+											[
+												10895,
+												10914
+											],
+											[
+												11114,
+												11133
+											],
+											[
+												11184,
+												11203
+											],
+											[
+												11377,
+												11396
+											],
+											[
+												11488,
+												11507
+											],
+											[
+												11666,
+												11685
+											],
+											[
+												11792,
+												11811
+											],
+											[
+												11955,
+												11974
+											],
+											[
+												12113,
+												12132
+											],
+											[
+												12245,
+												12264
+											],
+											[
+												12459,
+												12478
+											],
+											[
+												12551,
+												12570
+											],
+											[
+												12985,
+												13004
+											],
+											[
+												13038,
+												13057
+											],
+											[
+												13484,
+												13503
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										13498,
+										13498
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"default_dir": "/var/www/prostorad/prostorad",
+									"detect_indentation": false,
+									"incomplete_sync": null,
+									"line_numbers": false,
+									"output_tag": 4,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 7120.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/var/www/prostorad/prostorad/code/inc/pages/organizacija-sjurprizov.inc.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3650,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2798,
+										2798
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1818,41 +2957,6 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1860,7 +2964,98 @@
 										"bh_square_content"
 									],
 									"incomplete_sync": null,
-									"open_with_edit": true,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 930.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 320,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										101,
+										101
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
 									"syntax": "Packages/PHP/PHP.tmLanguage"
@@ -1873,370 +3068,95 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/home/greshnik/projects/btrxtogoogle/authbtrx.php",
+							"buffer": 5,
+							"file": "/var/www/prostorad/prostorad/sys/app/routes/main.yml",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 594,
+								"buffer_size": 2150,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										291,
-										291
+										2055,
+										2055
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"incomplete_sync": null,
-									"open_with_edit": true,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/greshnik/projects/btrxtogoogle/test.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 764,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										764,
-										764
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"incomplete_sync": null,
-									"open_with_edit": true,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/greshnik/projects/btrxtogoogle/composer.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 75,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										75,
-										75
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"incomplete_sync": null,
-									"open_with_edit": true,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/greshnik/projects/btrxtogoogle/test.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7,
-										7
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_unmatched_content"
 									],
 									"incomplete_sync": null,
-									"open_with_edit": true,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 770.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -2286,7 +3206,7 @@
 				"height": 112.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,686,24,1326,476,3520,1080",
+			"position": "0,1,0,0,0,1832,24,2472,420,3520,1080",
 			"project": "",
 			"replace":
 			{
@@ -2299,6 +3219,238 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"autoco",
+						"code/inc/prostorad/Controller/AutoCompleteController.php"
+					],
+					[
+						"autocompl",
+						"code/inc/assets/js/prostorad/autocomplete.coffee"
+					],
+					[
+						"dostavka-cvetov.js",
+						"code/inc/assets/js/prostorad/uslugi/dostavka-cvetov.js"
+					],
+					[
+						"autocomplete.js",
+						"code/inc/assets/js/prostorad/autocomplete.js"
+					],
+					[
+						"vkopinionscontroller",
+						"code/inc/prostorad/Otzyvy/VKOpinionsController.php"
+					],
+					[
+						"main.ym",
+						"sys/app/routes/main.yml"
+					],
+					[
+						"controller",
+						"code/inc/prostorad/Controller/BaseController.php"
+					],
+					[
+						"ordereditre",
+						"code/inc/prostorad/Admin/Socket/OrderEditManager.php"
+					],
+					[
+						"phpsocket",
+						"code/inc/assets/js/admin/phpSocket.coffee"
+					],
+					[
+						".git",
+						".gitignore"
+					],
+					[
+						"servoce",
+						"code/service-order.php"
+					],
+					[
+						"order",
+						"code/inc/prostorad/Order.php"
+					],
+					[
+						"orderfactory",
+						"code/inc/prostorad/OrderFactory.php"
+					],
+					[
+						"feed",
+						"code/feedback.php"
+					],
+					[
+						"mailer",
+						"code/inc/prostorad/Mailer.php"
+					],
+					[
+						"editform",
+						"admin/pages/editform.php"
+					],
+					[
+						"main.js",
+						"basic/web/js/main.js"
+					],
+					[
+						"treenodefabric",
+						"basic/helper/TreeNodeFabric.php"
+					],
+					[
+						"pers",
+						"basic/models/PersonRole.php"
+					],
+					[
+						"create_f",
+						"basic/migrations/m150616_075738_create_folder_table.php"
+					],
+					[
+						"create",
+						"basic/migrations/m150622_190416_create_table_peronRole.php"
+					],
+					[
+						"main.sj",
+						"basic/web/js/main.js"
+					],
+					[
+						"direct",
+						"basic/controllers/DirectoryController.php"
+					],
+					[
+						"directo",
+						"basic/models/Directory.php"
+					],
+					[
+						"folder",
+						"basic/models/Folder.php"
+					],
+					[
+						"call",
+						"basic/controllers/CallController.php"
+					],
+					[
+						"site",
+						"basic/controllers/SiteController.php"
+					],
+					[
+						"calls",
+						"basic/models/Calls.php"
+					],
+					[
+						"main",
+						"basic/views/layouts/main.php"
+					],
+					[
+						"folder_table",
+						"basic/migrations/m150616_075738_create_folder_table.php"
+					],
+					[
+						"create_d",
+						"basic/migrations/m150616_074016_create_directory_table.php"
+					],
+					[
+						"lay",
+						"basic/views/layouts/main.php"
+					],
+					[
+						"contra",
+						"basic/migrations/m150608_140327_create_contract_table.php"
+					],
+					[
+						"sample_ta",
+						"basic/migrations/m150608_132020_create_sample_table.php"
+					],
+					[
+						"create_ca",
+						"basic/migrations/m150605_125121_create_call_table.php"
+					],
+					[
+						"layouts",
+						"basic/views/layouts/main.php"
+					],
+					[
+						"migration",
+						"basic/migrations/m150604_133355_create_user_table.php"
+					],
+					[
+						"mailers",
+						"basic/views/site/mailers.php"
+					],
+					[
+						"index",
+						"basic/views/site/index.php"
+					],
+					[
+						"addmailer",
+						"basic/views/site/addmailer.php"
+					],
+					[
+						"email",
+						"basic/models/Emails.php"
+					],
+					[
+						"web",
+						"basic/config/web.php"
+					],
+					[
+						"templatef",
+						"basic/models/TemplateForm.php"
+					],
+					[
+						"templates",
+						"basic/models/Templates.php"
+					],
+					[
+						"tempalte",
+						"basic/models/Templates.php"
+					],
+					[
+						"templateform",
+						"basic/models/TemplateForm.php"
+					],
+					[
+						"add",
+						"basic/views/site/addtemplate.php"
+					],
+					[
+						"addtem",
+						"basic/views/site/addtemplate.php"
+					],
+					[
+						"model/template",
+						"basic/models/Templates.php"
+					],
+					[
+						"template",
+						"basic/migrations/m150601_040226_template_text_field.php"
+					],
+					[
+						"acco",
+						"basic/models/Account.php"
+					],
+					[
+						"mail",
+						"basic/views/site/mailers.php"
+					],
+					[
+						"user",
+						"basic/models/User.php"
+					],
+					[
+						"todo",
+						"basic/vendor/ezyang/htmlpurifier/TODO"
+					],
+					[
+						"lo",
+						"basic/models/LoginForm.php"
+					],
+					[
+						"basic/web/css",
+						"basic/web/css/site.css"
+					],
+					[
+						"style",
+						"basic/vendor/ezyang/htmlpurifier/docs/style.css"
+					],
+					[
+						"commands/",
+						"basic/commands/RbacController.php"
+					],
 					[
 						"vars",
 						"vars.inc.php"
@@ -2396,10 +3548,6 @@
 						"protected/views/group/viewAllTruancy.php"
 					],
 					[
-						"lay",
-						"views/layout.ejs"
-					],
-					[
 						"login",
 						"views/user/loginform.ejs"
 					],
@@ -2440,12 +3588,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 290.0,
+			"side_bar_width": 346.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 104,
+			"window_id": 119,
 			"workspace_name": ""
 		}
 	],

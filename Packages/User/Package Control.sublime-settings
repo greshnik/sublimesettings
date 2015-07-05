@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"auto-save",
 		"BracketHighlighter",
 		"EJS",
 		"Git",
@@ -15,6 +16,8 @@
 		"Javascript Beautify",
 		"LiveStyle",
 		"Package Control",
+		"PHP Code Coverage",
+		"PHP Companion",
 		"PhpDoc",
 		"PlainTasks",
 		"SFTP",

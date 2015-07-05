@@ -4,5 +4,8 @@
 	{ "keys": ["ctrl+alt+f"], "command": "find_next_conflict" },
   	{ "keys": ["ctrl+alt+o"], "command": "keep", "args": { "keep": "ours" } },
   	{ "keys": ["ctrl+alt+a"], "command": "keep", "args": { "keep": "ancestor" } },
-  	{ "keys": ["ctrl+alt+c"], "command": "list_conflict_files" }
+  	{ "keys": ["ctrl+alt+c"], "command": "list_conflict_files" },
+  	{ "keys": ["f10"], "command": "find_use" },
+  	{ "keys": ["shift+f12"], "command": "goto_definition" },
+  	{ "keys": ["ctrl+shift+s"], "command": "auto_save" }
 ]
