@@ -2,13 +2,24 @@
 	"folder_history":
 	[
 		"/var/www/alexcrm",
+		"/home/greshnik/work/canogle/canogle",
 		"/var/www/mailer2/mailers",
+		"/var/www/prostorad/prostorad",
+		"/var/www/prostorad",
+		"/home/greshnik/work/canogle/canogle/pointApp",
+		"/var/www/alexcrm/basic",
+		"/var/www/mailer2/mailers/basic",
+		"/home/greshnik/Tmp/nodejs",
+		"/home/greshnik/Tmp/landing2",
 		"/var/www/prostoapp",
+		"/home/greshnik/Рабочий стол/kotl",
+		"/home/greshnik/ProjectNodejs/freelancerNotify",
+		"/var/www/dle/upload",
+		"/home/greshnik/Tmp/dle/upload",
 		"/home/greshnik/tmp/landing",
 		"/home/greshnik/tmp/dle/upload",
 		"/home/greshnik/tmp/shs",
 		"/home/greshnik/tmp/lend2",
-		"/var/www/prostorad/prostorad",
 		"/home/greshnik/tmp/protfoliopage",
 		"/home/greshnik/tmp/test",
 		"/home/greshnik/projects/voice_control",
@@ -80,7 +91,7 @@
 		"/home/greshnik/Рабочий стол/Разкодить"
 	],
 	"last_version": 3083,
-	"last_window_id": 133,
+	"last_window_id": 160,
 	"log_indexing": false,
 	"settings":
 	{
@@ -91,6 +102,30 @@
 			{
 				"selected_items":
 				[
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"Reason",
+						"ReasonFactory"
+					],
+					[
+						"block",
+						"blockId"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"Vid",
+						"VideoTitleFactory"
+					],
+					[
+						"drop",
+						"dropColumn〔function〕"
+					],
 					[
 						"video",
 						"$videos〔variable〕"
@@ -126,10 +161,6 @@
 					[
 						"edit",
 						"editVideo"
-					],
-					[
-						"padd",
-						"padding-bottom"
 					],
 					[
 						"back",
@@ -226,10 +257,6 @@
 					[
 						"create",
 						"createTable〔function〕"
-					],
-					[
-						"drop",
-						"dropTable〔function〕"
 					],
 					[
 						"ali",
@@ -492,10 +519,6 @@
 						"event_filter"
 					],
 					[
-						"fon",
-						"font-weight"
-					],
-					[
 						"glo",
 						"global"
 					],
@@ -587,7 +610,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 264.0,
+				"height": 368.0,
 				"last_filter": "add",
 				"selected_items":
 				[
@@ -596,19 +619,19 @@
 						"Project: Add Folder"
 					],
 					[
-						"add folder",
-						"Project: Add Folder"
+						"prett",
+						"HTMLPrettify"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"addd",
-						"Project: Add Folder"
+						"install ",
+						"Package Control: Install Package"
 					],
 					[
-						"git ",
+						"comm",
 						"Git: Commit"
 					],
 					[
@@ -616,24 +639,80 @@
 						"Git: Add..."
 					],
 					[
-						"git commit",
+						"git comm",
 						"Git: Commit"
 					],
 					[
-						"git comm",
+						"commit",
 						"Git: Commit"
+					],
+					[
+						"git .",
+						"Git: Add..."
+					],
+					[
+						"add folder",
+						"Project: Add Folder"
+					],
+					[
+						"repl n",
+						"SublimeREPL: Node"
 					],
 					[
 						"git",
 						"Git: Commit"
 					],
 					[
-						"conso",
-						"Set Syntax: R Console"
+						"git commit",
+						"Git: Commit"
 					],
 					[
-						"install ",
-						"Package Control: Install Package"
+						"git ad",
+						"Git: Add..."
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git cmmit",
+						"Git: Commit"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"gitcomm",
+						"Git: Commit"
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"repl",
+						"SublimeREPL: PHP"
+					],
+					[
+						"repl ph",
+						"SublimeREPL: PHP"
+					],
+					[
+						"addd",
+						"Project: Add Folder"
+					],
+					[
+						"conso",
+						"Set Syntax: R Console"
 					],
 					[
 						"reind",
@@ -660,15 +739,7 @@
 						"phpfmt: format now"
 					],
 					[
-						"comm",
-						"Git: Commit"
-					],
-					[
 						"co",
-						"Git: Commit"
-					],
-					[
-						"commit",
 						"Git: Commit"
 					],
 					[
@@ -692,10 +763,6 @@
 						"Javascript Beautify"
 					],
 					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
 						"git ocmm",
 						"Git: Commit"
 					],
@@ -708,20 +775,12 @@
 						"Git: Diff Tool Current File"
 					],
 					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
 						"js ",
 						"Javascript Beautify"
 					],
 					[
 						"update",
 						"SVN: Update"
-					],
-					[
-						"commi",
-						"SVN: Commit…"
 					],
 					[
 						"svn update",
@@ -764,7 +823,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 530.0
+				"width": 498.0
 			},
 			"console":
 			{
@@ -786,6 +845,107 @@
 			},
 			"file_history":
 			[
+				"/tmp/fz3temp-1/index 2.html",
+				"/tmp/fz3temp-1/index 3.html",
+				"/var/www/alexcrm/basic/config/db.php",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/controllers/stories.client.controller.js",
+				"/tmp/fz3temp-1/index.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/my-points.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/uploadDemo2-story.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/edit-tour-stories.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/lib/bootstrap/js/modal.js",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/create-story.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/views/modal-add-tour.tours.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/views/demo-view-tour.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/views/edit-tour-stories.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/controllers/tours.client.controller.js",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/companies/controllers/companies.client.controller.js",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/users/controllers/settings.client.controller.js",
+				"/var/www/prostorad/prostorad/admin/pages/editvideo.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitle.php",
+				"/var/www/prostorad/prostorad/admin/pages/editform.php",
+				"/home/greshnik/Tmp/landing2/js/main.js",
+				"/home/greshnik/Tmp/landing2/css/custom.css",
+				"/home/greshnik/Tmp/landing2/index.html",
+				"/var/www/prostorad/prostorad/admin/orders/phpSocket/nohup.out",
+				"/var/www/prostorad/prostorad/sys/db/migrations/005_create_table_reason.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/OrderItem.php",
+				"/var/www/prostorad/prostorad/admin/orders/call.php",
+				"/var/www/prostorad/prostorad/admin/orders/add_order.php",
+				"/var/www/prostorad/prostorad/admin/orders/setname.php",
+				"/var/www/prostorad/prostorad/admin/orders/socket/index.js",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitleFactory.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/DBQueryResult.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/OrderFactory.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Order.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbObject.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbObjectInterface.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Stats/SaleStats.php",
+				"/var/www/prostorad/prostorad/admin/orders/rows_display.php",
+				"/var/www/prostorad/prostorad/admin/orders/index.php",
+				"/var/www/prostorad/prostorad/admin/orders/emails.php",
+				"/var/www/prostorad/prostorad/sys/db/migrations/004.php",
+				"/var/www/prostorad/prostorad/admin/stats/index.php",
+				"/var/www/prostorad/prostorad/blocks/Landing/landing.html.twig",
+				"/var/www/prostorad/prostorad/code/inc/pages/zavorazhivajushhie-professionalnye-fejerverki-i-ognennye-shou.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing/Landings/Svadba2.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/vse-neobhodimoe-k-svadbe.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/originalnye-korporativnye-podarki-i-luchshie-pozdravlenija-kolleg.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-jubileev-godovshhin-svadby-prazdnikov.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/talantlivejshie-muzykanty-na-prazdnik.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/luchshie-aktjory-i-animatory-mimy-rostovye-kukly-hadulisty-klouny.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/oformlenie-prazdnikov-vozdushnymi-sharami.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-luchshih-fleshmobov.inc.php",
+				"/var/www/prostorad/prostorad/admin/pages/delvideo.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/krasivo-poprosit-proshhenija-i-pomiritsja.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-krasivoj-vypiski-iz-roddoma.inc.php",
+				"/var/www/prostorad/prostorad/sys/cron/daily/4-updateVideosTitles.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/luchshie-pozdravlenija-s-dnjom-rozhdenija.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/assets/css/css/_layout.scss",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/PageFactory.php",
+				"/var/www/prostorad/prostorad/admin/pages/edit.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-sjurprizov.inc.php",
+				"/var/www/prostorad/prostorad/css/prostorad.css",
+				"/var/www/prostorad/prostorad/app.php",
+				"/var/www/prostorad/prostorad/code/feedback.php",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/tmp/fz3temp-1/index.php",
+				"/tmp/fz3temp-1/style 2.css",
+				"/tmp/fz3temp-1/template 2.php",
+				"/tmp/fz3temp-1/detail.php",
+				"/tmp/fz3temp-1/style.css",
+				"/tmp/fz3temp-1/template.php",
+				"/tmp/fz3temp-1/result_modifier.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing/Landings/Rozygrysh.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/video-podarok-professionalnyj-film.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/romanticheskoe-svidanie-na-luchshih-kryshah-moskvy.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/nadpisi-na-peske.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Formats.php",
+				"/var/www/prostorad/prostorad/admin/pages/videoposition.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/nadpisi-na-peske.inc.php",
+				"/var/www/alexcrm/basic/models/Landing.php",
+				"/var/www/alexcrm/basic/models/Order.php",
+				"/var/www/alexcrm/basic/migrations/m150713_125644_add_order_delivery_price_column.php",
+				"/var/www/alexcrm/basic/views/order/index.php",
+				"/var/www/alexcrm/basic/views/landing/_form.php",
+				"/var/www/alexcrm/basic/views/landing/view.php",
+				"/var/www/alexcrm/basic/views/order/_form.php",
+				"/var/www/alexcrm/basic/views/order/view.php",
+				"/var/www/alexcrm/basic/migrations/m150713_122124_add_landing_price_column.php",
+				"/var/www/alexcrm/basic/migrations/m150702_201412_create_landing_table.php",
+				"/var/www/alexcrm/basic/controllers/OrderController.php",
+				"/var/www/alexcrm/basic/migrations/m150702_201445_create_order_table.php",
+				"/var/www/alexcrm/basic/migrations/m150713_104140_add_type_order_column.php",
+				"/var/www/dle/upload/logg",
+				"/var/www/dle/upload/engine/modules/addcomments.php",
+				"/var/www/dle/upload/engine/ajax/addcomments.php",
+				"/var/www/dle/upload/engine/classes/parse.class.php",
+				"/var/www/dle/upload/engine/inc/addnews.php",
+				"/var/www/dle/upload/engine/modules/antibot/antibot.php",
+				"/home/greshnik/Tmp/alumtemp/pleksi/index.php",
+				"/var/www/mailer2/mailers/basic/helper/RestApi.php",
 				"/var/www/prostoapp/basic/views/directory/addService.php",
 				"/var/www/prostoapp/basic/helper/Direction.php",
 				"/var/www/prostoapp/basic/web/js/main.js",
@@ -812,112 +972,11 @@
 				"/var/www/prostoapp/basic/migrations/m150630_143001_create_service_table.php",
 				"/var/www/prostoapp/basic/migrations/m150709_071037_create_direction_table.php",
 				"/var/www/prostoapp/basic/migrations/m150709_071028_create_source_table.php",
-				"/var/www/prostoapp/basic/migrations/m150709_065711_create_sale_point_table.php",
-				"/var/www/prostoapp/basic/migrations/m150709_065128_create_call_type_table.php",
-				"/var/www/mailer2/mailers/basic/migrations/m150709_041818_create_backup_table.php",
-				"/var/www/mailer2/mailers/basic/commands/HelloController.php",
-				"/var/www/alexcrm/basic/helper/StatusHelper.php",
-				"/var/www/alexcrm/basic/migrations/m150702_201412_create_landing_table.php",
-				"/var/www/alexcrm/basic/models/Landing.php",
-				"/var/www/alexcrm/basic/views/landing/_form.php",
-				"/var/www/alexcrm/basic/controllers/LandingController.php",
-				"/var/www/alexcrm/basic/vendor/yiisoft/yii2/helpers/BaseUrl.php",
-				"/var/www/alexcrm/basic/config/web.php",
-				"/var/www/alexcrm/basic/config/db.php",
-				"/var/www/prostorad/prostorad/admin/engine.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/romanticheskoe-svidanie-na-luchshih-kryshah-moskvy.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/video-podarok-professionalnyj-film.php",
-				"/var/www/prostorad/prostorad/blocks/Landing/landing.html.twig",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/nadpisi-na-peske.php",
-				"/var/www/prostorad/prostorad/blocks/Landing/videos.html.twig",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitleFactory.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Widget/CWidget.php",
-				"/var/www/prostorad/prostorad/admin/pages/editform.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitle.php",
-				"/var/www/prostorad/prostorad/code/inc/vendor/anahkiasen/html-object/src/Traits/Helpers.php",
-				"/var/www/prostorad/prostorad/sys/db/migrations/004.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-i-provedenie-detskih-prazdnikov.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-sjurprizov.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/sjurprizy-i-originalnye-podarki-na-novyj-god-i-rozhdestvo.inc.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/var/www/prostorad/prostorad/admin/pages/editvideo.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Formats.php",
-				"/var/www/prostorad/prostorad/.gitignore",
-				"/var/www/prostorad/prostorad/code/inc/pages/krasivo-poprosit-proshhenija-i-pomiritsja.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-romanticheskih-i-neobychnyh-svidanij.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-krasivoj-vypiski-iz-roddoma.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/luchshie-pozdravlenija-s-dnjom-rozhdenija.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-nezabyvaemogo-predlozhenija-ruki-i-serdca.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/pozdravlenie-na-asfalte.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/pozdravlenie-na-asfalte.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/romanticheskoe-svidanie-na-luchshih-kryshah-moskvy.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/nadpisi-na-peske.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/PageFactory.php",
-				"/var/www/prostorad/prostorad/admin/pages/videoposition.php",
-				"/var/www/prostorad/prostorad/admin/pages/delvideo.php",
-				"/var/www/prostorad/prostorad/admin/pages/index.php",
-				"/var/www/prostorad/prostorad/admin/stats/uslugi.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/UslugaFactory.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/usluga.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/forms/photo.inc",
-				"/tmp/fz3temp-1/nginx.conf",
-				"/tmp/fz3temp-1/im_subscrider.conf",
-				"/tmp/fz3temp-1/s1.conf",
-				"/tmp/fz3temp-1/default",
-				"/tmp/fz3temp-1/push.conf",
-				"/tmp/fz3temp-1/pull 2.js",
-				"/tmp/fz3temp-1/bitrix.conf",
-				"/tmp/fz3temp-1/errors.conf",
-				"/tmp/fz3temp-1/pull.js",
-				"/var/www/prostorad/prostorad/app.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/tmp/fz3temp-1/update_system.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/phpfmt/message",
-				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/var/www/prostorad/prostorad/admin/actionslog/rollback.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbObject.php",
-				"/var/www/prostorad/prostorad/blocks/admin/orders/footer.html.twig",
-				"/var/www/prostorad/prostorad/admin/pages/edit.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbFactory.php",
-				"/var/www/prostorad/prostorad/sys/db/migrations/001.sql",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/R.php",
-				"/var/www/prostorad/prostorad/admin/utils/admin.css",
-				"/var/www/prostorad/prostorad/admin/pages/add.php",
-				"/var/www/prostorad/prostorad/code/autoComplateFields.php",
-				"/var/www/prostorad/prostorad/admin/pages/del.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/admin/mailform.prod.js",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/thirdparty/jquery-ui.min.js",
-				"/var/www/prostorad/prostorad/admin/ideas/datepicker.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/main.js",
-				"/var/www/prostorad/prostorad/admin/utils/js/sortable.js",
-				"/var/www/prostorad/prostorad/sys/db/migrations/003.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php",
-				"/var/www/prostorad/prostorad/sys/app/routes/main.yml",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Mail/MailTemplateController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Opinions/MailOpinionsController.php",
-				"/var/www/prostorad/prostorad/code/inc/vendor/composer/autoload_classmap.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminRenderedPage.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi.js",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/forms/zvonki.inc",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/autocomplete.js",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/autocomplete.coffee",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AjaxController.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi/uslugi.js",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi/dostavka-cvetov.js",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/BaseController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Otzyvy/VKOpinionsController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Order.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/OrderFactory.php",
-				"/var/www/prostorad/prostorad/code/service-order.php",
-				"/var/www/prostorad/prostorad/admin/orders/index.php",
-				"/var/www/prostorad/prostorad/admin/utils/orders.css"
+				"/var/www/prostoapp/basic/migrations/m150709_065711_create_sale_point_table.php"
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 66.0
 			},
 			"find_in_files":
 			{
@@ -934,6 +993,96 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"/order/create",
+					"action=",
+					"method=\"POST\" action=\"/order/create\"",
+					"action=\"/cart\"",
+					"action=",
+					"form",
+					"action=",
+					"form",
+					"onsubmit",
+					"onsubmit=\"return cartTelCheck('widgetu1666_input', true, this, event);\"",
+					"onsubmit=\"return cartTelCheck('widgetu1633_input', true, this, event);\"",
+					"cartTelCheck",
+					"form",
+					"submit-btn NoWrap grpelem",
+					"Заказать Appl",
+					"осталось",
+					"Create a Story Point",
+					"updateUserCompany",
+					"'",
+					"<button>Post</button>",
+					"block",
+					"value-de",
+					"value",
+					"value-descri",
+					"value-description",
+					"value-des",
+					"getSelectQuery",
+					"getByValue",
+					"previousValue",
+					"povod",
+					"payMethodWindow",
+					"class=\"povod\"",
+					"payMethodWindow",
+					"function rg",
+					"items",
+					"searchfilter",
+					"occasion",
+					"JsonSerializable",
+					"povod",
+					"$povod",
+					"povod",
+					"povo",
+					"get_existingitems",
+					"povod",
+					"get_existingitems",
+					"povod",
+					"td class=\"povod\"",
+					"class=\"povod\"",
+					"td class=\"povod\"",
+					"<b>Повод</b>",
+					"admin/orders",
+					"$povod",
+					"occasions",
+					"Продаж по поводам",
+					"Лучшая организация Вашей свадьбы",
+					"countTopVideo",
+					"countVideo",
+					"main .single",
+					"videos",
+					"main .single",
+					"adminname",
+					"pageData",
+					"save",
+					"adminname",
+					"$lastMod->setTimestamp($lastmodtime);",
+					"product_name",
+					"videos",
+					"videosAfterText",
+					"video",
+					"landing.videos",
+					"videos",
+					"videosHtml",
+					"renderVideos",
+					"$videos",
+					"getByPage",
+					"viewVideo",
+					"VideoTitleFactory",
+					"Searching",
+					"PageFactory::getById",
+					"video_page",
+					"роз",
+					"CP1251",
+					"1251",
+					"$name",
+					"CN_HALT",
+					"$_REQUEST['skin']",
+					"member_id",
+					"keystring",
+					"getKeyString",
+					"rndval",
 					"getDirections",
 					"dropTable",
 					"findOn",
@@ -971,97 +1120,7 @@
 					"$video =  new VideoTitle();",
 					"$temp->getNextVideo",
 					"$temp->getVideos",
-					"$temp =  new VideoTitle()",
-					"$temp",
-					"к: Видео подарок",
-					"cp-aq6ChiYE",
-					"GR_3_8HmTzQ",
-					"jv6tb4gGeM4",
-					"VideoTitle",
-					"Розы",
-					"Роз",
-					"Структура контентных страниц сайта",
-					"Заполните п",
-					"Заполните поля:",
-					"Access",
-					"add_header Access-Control-Allow-Origin *;",
-					"server",
-					"host",
-					"Структура контентных страниц сайта",
-					"VideoTitleFa",
-					"Formats",
-					"$lastmodtime",
-					"isExpired",
-					"lastmodtime",
-					"1_PRwd0d_7I",
-					"I6ZHHC9B_so",
-					" youTube",
-					"Ваше имя",
-					"getById",
-					"data-id",
-					"data-id\n",
-					"service_id",
-					"fromObjectToObject",
-					"Ваше имя\nВаше имя",
-					"videoTitles",
-					"video_titles",
-					"function store",
-					"function store ",
-					"function ]store ",
-					"store ",
-					"VideoTitle",
-					"insertId",
-					"get_title",
-					"fetchTitle",
-					"insertUpdateSave",
-					"lastFetched",
-					"insertUpdateSave",
-					"video_titles",
-					"jquery-ui.min.js",
-					"jquery-ui",
-					"L55cycnopW0",
-					"Formats::youTube",
-					"123123123131212321",
-					"123123",
-					"123123123131212321",
-					"Название2",
-					"hiddencontent",
-					"divname",
-					"Название для админки",
-					"<ul class=\"videos\">",
-					"NoCacheRenderedPage",
-					"AdminRenderedPage",
-					"AjaxController",
-					"RenderedPage",
-					"RenderedResponse",
-					"VKOpinionsController",
-					"$request",
-					"window.autocomplete",
-					"$_SESSION['autocomplate']",
-					"__name",
-					"__tel",
-					"__pname",
-					"hrtdu767ii",
-					"addChar",
-					"Имя человека, которому звоним",
-					"Заполните поля",
-					"processRegionChange",
-					"regionselectedorder",
-					"cityinput",
-					"phpSocket",
-					"options.city",
-					"options.orderId",
-					"Session.prototype.publish",
-					"publish ",
-					"cityinput",
-					"saveCityField",
-					"rd(",
-					"rt(",
-					"ordertypeselect",
-					"saveCityField",
-					"citysave",
-					"rg(",
-					"wrapp"
+					"$temp =  new VideoTitle()"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1069,6 +1128,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"method=\"POST\" action=\"/order/create\"",
+					"  ",
+					" ",
 					"$video =  new VideoTitleFactory();",
 					"$video->getNextVideo",
 					"$video->getVideos",
@@ -1109,7 +1171,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 118.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1118,6 +1180,254 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"db.",
+						"basic/config/db.php"
+					],
+					[
+						"stormodal",
+						"pointApp/public/modules/tours/views/modal-add-tour.tours.client.view.html"
+					],
+					[
+						"modal",
+						"pointApp/public/lib/bootstrap/js/modal.js"
+					],
+					[
+						"storihtml",
+						"pointApp/public/modules/stories/views/create-story.client.view.html"
+					],
+					[
+						"storcontroller",
+						"pointApp/public/modules/stories/controllers/stories.client.controller.js"
+					],
+					[
+						"compancontroll",
+						"pointApp/public/modules/companies/controllers/companies.client.controller.js"
+					],
+					[
+						"companies",
+						"pointApp/public/modules/companies/controllers/companies.client.controller.js"
+					],
+					[
+						"point.contr",
+						"pointApp/public/modules/stories/controllers/stories.client.controller.js"
+					],
+					[
+						"tourcontroller",
+						"pointApp/public/modules/tours/controllers/tours.client.controller.js"
+					],
+					[
+						"videotitle",
+						"code/inc/prostorad/YouTube/VideoTitle.php"
+					],
+					[
+						"editv",
+						"admin/pages/editvideo.php"
+					],
+					[
+						"main",
+						"basic/web/js/main.js"
+					],
+					[
+						"005",
+						"sys/db/migrations/005_create_table_reason.php"
+					],
+					[
+						"orderitem",
+						"code/inc/prostorad/OrderItem.php"
+					],
+					[
+						"ordereditmanager",
+						"code/inc/prostorad/Admin/Socket/OrderEditManager.php"
+					],
+					[
+						"phpsocket/daemon.php",
+						"admin/orders/phpSocket/daemon.php"
+					],
+					[
+						"dbqueryresult",
+						"code/inc/prostorad/DBQueryResult.php"
+					],
+					[
+						"dbobjectinterface",
+						"code/inc/prostorad/DB/DbObjectInterface.php"
+					],
+					[
+						"dbobject",
+						"code/inc/prostorad/DB/DbObject.php"
+					],
+					[
+						"videotitl",
+						"code/inc/prostorad/YouTube/VideoTitleFactory.php"
+					],
+					[
+						"order",
+						"code/inc/prostorad/Order.php"
+					],
+					[
+						"videotitlefactory",
+						"code/inc/prostorad/YouTube/VideoTitleFactory.php"
+					],
+					[
+						"orderf",
+						"code/inc/prostorad/OrderFactory.php"
+					],
+					[
+						"004",
+						"sys/db/migrations/004.php"
+					],
+					[
+						"rows_display.php",
+						"admin/orders/rows_display.php"
+					],
+					[
+						"salestats",
+						"code/inc/prostorad/Admin/Stats/SaleStats.php"
+					],
+					[
+						"ognennye",
+						"code/inc/pages/zavorazhivajushhie-professionalnye-fejerverki-i-ognennye-shou.inc.php"
+					],
+					[
+						"lan",
+						"blocks/Landing/landing.html.twig"
+					],
+					[
+						"svadby",
+						"code/inc/pages/organizacija-jubileev-godovshhin-svadby-prazdnikov.inc.php"
+					],
+					[
+						"neobhodimoe",
+						"code/inc/pages/vse-neobhodimoe-k-svadbe.inc.php"
+					],
+					[
+						"kolleg",
+						"code/inc/pages/originalnye-korporativnye-podarki-i-luchshie-pozdravlenija-kolleg.inc.php"
+					],
+					[
+						"vozd",
+						"code/inc/pages/oformlenie-prazdnikov-vozdushnymi-sharami.inc.php"
+					],
+					[
+						"muzy",
+						"code/inc/pages/talantlivejshie-muzykanty-na-prazdnik.inc.php"
+					],
+					[
+						"animatory",
+						"code/inc/pages/luchshie-aktjory-i-animatory-mimy-rostovye-kukly-hadulisty-klouny.inc.php"
+					],
+					[
+						"fleshmobov",
+						"code/inc/pages/organizacija-luchshih-fleshmobov.inc.php"
+					],
+					[
+						"land",
+						"code/inc/prostorad/Landing.php"
+					],
+					[
+						"landing",
+						"blocks/Landing/landing.html.twig"
+					],
+					[
+						"proshhenija",
+						"code/inc/pages/krasivo-poprosit-proshhenija-i-pomiritsja.inc.php"
+					],
+					[
+						"roddoma",
+						"code/inc/pages/organizacija-krasivoj-vypiski-iz-roddoma.inc.php"
+					],
+					[
+						"-rozh",
+						"code/inc/pages/luchshie-pozdravlenija-s-dnjom-rozhdenija.inc.php"
+					],
+					[
+						"editfo",
+						"admin/pages/editform.php"
+					],
+					[
+						"4-",
+						"sys/cron/daily/4-updateVideosTitles.php"
+					],
+					[
+						"landin",
+						"code/inc/prostorad/Landing.php"
+					],
+					[
+						"prost",
+						"css/prostorad.css"
+					],
+					[
+						"pagefactory",
+						"code/inc/prostorad/PageFactory.php"
+					],
+					[
+						"organizacija-sjurprizov",
+						"code/inc/pages/organizacija-sjurprizov.inc.php"
+					],
+					[
+						"code/feedback.php",
+						"code/feedback.php"
+					],
+					[
+						"admin/pages/edit.php",
+						"admin/pages/edit.php"
+					],
+					[
+						"code/inc/assets/js/admin/orders.js",
+						"code/inc/assets/js/admin/orders.js"
+					],
+					[
+						"admin/orders.js",
+						"code/inc/assets/js/admin/orders.js"
+					],
+					[
+						"predlozhenija",
+						"code/inc/pages/organizacija-nezabyvaemogo-predlozhenija-ruki-i-serdca.inc.php"
+					],
+					[
+						"roz",
+						"code/inc/prostorad/Landing/Landings/Rozygrysh.php"
+					],
+					[
+						"formats",
+						"code/inc/prostorad/Formats.php"
+					],
+					[
+						"position",
+						"admin/pages/videoposition.php"
+					],
+					[
+						"vide",
+						"code/inc/prostorad/YouTube/VideoTitle.php"
+					],
+					[
+						"nadpisi-na-peske",
+						"code/inc/pages/nadpisi-na-peske.inc.php"
+					],
+					[
+						"price",
+						"basic/migrations/m150713_125644_add_order_delivery_price_column.php"
+					],
+					[
+						"landi",
+						"basic/models/Landing.php"
+					],
+					[
+						"type_order",
+						"basic/migrations/m150713_104140_add_type_order_column.php"
+					],
+					[
+						"parse.class.php",
+						"engine/classes/parse.class.php"
+					],
+					[
+						"addcomments.php",
+						"engine/modules/addcomments.php"
+					],
+					[
+						"antibot",
+						"engine/modules/antibot/antibot.php"
+					],
 					[
 						"mailer",
 						"basic/commands/MailerController.php"
@@ -1163,10 +1473,6 @@
 						"basic/migrations/m150709_041818_create_backup_table.php"
 					],
 					[
-						"order",
-						"basic/models/Order.php"
-					],
-					[
 						"baseurl",
 						"basic/vendor/yiisoft/yii2/helpers/BaseUrl.php"
 					],
@@ -1175,24 +1481,8 @@
 						"basic/views/landing/_form.php"
 					],
 					[
-						"land",
-						"basic/models/Landing.php"
-					],
-					[
-						"dbobject",
-						"code/inc/prostorad/DB/DbObject.php"
-					],
-					[
 						"engine",
 						"admin/engine.php"
-					],
-					[
-						"formats",
-						"code/inc/prostorad/Formats.php"
-					],
-					[
-						"videotitle",
-						"code/inc/prostorad/YouTube/VideoTitle.php"
 					],
 					[
 						"editvideo",
@@ -1201,10 +1491,6 @@
 					[
 						"landing.html.twig",
 						"blocks/Landing/landing.html.twig"
-					],
-					[
-						"videotitlefactory",
-						"code/inc/prostorad/YouTube/VideoTitleFactory.php"
 					],
 					[
 						"landing.php",
@@ -1259,10 +1545,6 @@
 						"sys/db/migrations/004.php"
 					],
 					[
-						"004",
-						"sys/db/migrations/004.php"
-					],
-					[
 						"detskih-prazdnikov",
 						"code/inc/pages/organizacija-i-provedenie-detskih-prazdnikov.inc.php"
 					],
@@ -1309,10 +1591,6 @@
 					[
 						"nadpisi",
 						"code/inc/pages/nadpisi-na-peske.inc.php"
-					],
-					[
-						"pagefactory",
-						"code/inc/prostorad/PageFactory.php"
 					],
 					[
 						"uslugi.php",
@@ -1413,222 +1691,6 @@
 					[
 						"treenodefabric",
 						"basic/helper/TreeNodeFabric.php"
-					],
-					[
-						"pers",
-						"basic/models/PersonRole.php"
-					],
-					[
-						"create_f",
-						"basic/migrations/m150616_075738_create_folder_table.php"
-					],
-					[
-						"create",
-						"basic/migrations/m150622_190416_create_table_peronRole.php"
-					],
-					[
-						"main.sj",
-						"basic/web/js/main.js"
-					],
-					[
-						"direct",
-						"basic/controllers/DirectoryController.php"
-					],
-					[
-						"directo",
-						"basic/models/Directory.php"
-					],
-					[
-						"folder",
-						"basic/models/Folder.php"
-					],
-					[
-						"call",
-						"basic/controllers/CallController.php"
-					],
-					[
-						"site",
-						"basic/controllers/SiteController.php"
-					],
-					[
-						"calls",
-						"basic/models/Calls.php"
-					],
-					[
-						"main",
-						"basic/views/layouts/main.php"
-					],
-					[
-						"folder_table",
-						"basic/migrations/m150616_075738_create_folder_table.php"
-					],
-					[
-						"create_d",
-						"basic/migrations/m150616_074016_create_directory_table.php"
-					],
-					[
-						"lay",
-						"basic/views/layouts/main.php"
-					],
-					[
-						"contra",
-						"basic/migrations/m150608_140327_create_contract_table.php"
-					],
-					[
-						"sample_ta",
-						"basic/migrations/m150608_132020_create_sample_table.php"
-					],
-					[
-						"create_ca",
-						"basic/migrations/m150605_125121_create_call_table.php"
-					],
-					[
-						"layouts",
-						"basic/views/layouts/main.php"
-					],
-					[
-						"migration",
-						"basic/migrations/m150604_133355_create_user_table.php"
-					],
-					[
-						"mailers",
-						"basic/views/site/mailers.php"
-					],
-					[
-						"index",
-						"basic/views/site/index.php"
-					],
-					[
-						"addmailer",
-						"basic/views/site/addmailer.php"
-					],
-					[
-						"email",
-						"basic/models/Emails.php"
-					],
-					[
-						"web",
-						"basic/config/web.php"
-					],
-					[
-						"templatef",
-						"basic/models/TemplateForm.php"
-					],
-					[
-						"templates",
-						"basic/models/Templates.php"
-					],
-					[
-						"tempalte",
-						"basic/models/Templates.php"
-					],
-					[
-						"templateform",
-						"basic/models/TemplateForm.php"
-					],
-					[
-						"add",
-						"basic/views/site/addtemplate.php"
-					],
-					[
-						"addtem",
-						"basic/views/site/addtemplate.php"
-					],
-					[
-						"model/template",
-						"basic/models/Templates.php"
-					],
-					[
-						"template",
-						"basic/migrations/m150601_040226_template_text_field.php"
-					],
-					[
-						"acco",
-						"basic/models/Account.php"
-					],
-					[
-						"mail",
-						"basic/views/site/mailers.php"
-					],
-					[
-						"user",
-						"basic/models/User.php"
-					],
-					[
-						"todo",
-						"basic/vendor/ezyang/htmlpurifier/TODO"
-					],
-					[
-						"lo",
-						"basic/models/LoginForm.php"
-					],
-					[
-						"basic/web/css",
-						"basic/web/css/site.css"
-					],
-					[
-						"style",
-						"basic/vendor/ezyang/htmlpurifier/docs/style.css"
-					],
-					[
-						"commands/",
-						"basic/commands/RbacController.php"
-					],
-					[
-						"vars",
-						"vars.inc.php"
-					],
-					[
-						"styles",
-						"assets/styles/styles.css"
-					],
-					[
-						"api/ser",
-						"api/services/passport.js"
-					],
-					[
-						"services/passport",
-						"node_modules/sails-generate-auth/templates/api/services/passport.js"
-					],
-					[
-						"notifi",
-						"models/Notification.js"
-					],
-					[
-						"zakaz",
-						"protected/modules/project/controllers/ZakazController.php"
-					],
-					[
-						"fn_selfactions.sqf",
-						"temp/dayz_code/compile/fn_selfActions.sqf"
-					],
-					[
-						"send_and",
-						"bitrix/templates/aidentica/components/games/postman/.default/send_and_check.php"
-					],
-					[
-						"user_action",
-						"bitrix/php_interface/include/identica_api/user_action.php"
-					],
-					[
-						"jquery.incrementbox.js",
-						"bitrix/templates/aidentica/js/jquery.IncrementBox.js"
-					],
-					[
-						"partner",
-						"bitrix/templates/aidentica/css/partner.css"
-					],
-					[
-						"visit_brandjs",
-						"bitrix/templates/aidentica/components/games/visit_brand/.default/script.js"
-					],
-					[
-						"partner.css",
-						"bitrix/templates/aidentica/css/partner.css"
-					],
-					[
-						"style.css",
-						"templates/common/css/style.css"
 					]
 				],
 				"width": 0.0
@@ -1663,7 +1725,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 419.0,
+			"side_bar_width": 393.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1678,6 +1740,30 @@
 			{
 				"selected_items":
 				[
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"Reason",
+						"ReasonFactory"
+					],
+					[
+						"block",
+						"blockId"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"Vid",
+						"VideoTitleFactory"
+					],
+					[
+						"drop",
+						"dropColumn〔function〕"
+					],
 					[
 						"video",
 						"$videos〔variable〕"
@@ -1713,10 +1799,6 @@
 					[
 						"edit",
 						"editVideo"
-					],
-					[
-						"padd",
-						"padding-bottom"
 					],
 					[
 						"back",
@@ -1813,10 +1895,6 @@
 					[
 						"create",
 						"createTable〔function〕"
-					],
-					[
-						"drop",
-						"dropTable〔function〕"
 					],
 					[
 						"ali",
@@ -2077,10 +2155,6 @@
 					[
 						"eve",
 						"event_filter"
-					],
-					[
-						"fon",
-						"font-weight"
 					],
 					[
 						"glo",
@@ -2170,22 +2244,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/var/www/mailer2/mailers/basic/commands/MailerController.php",
-					"settings":
-					{
-						"buffer_size": 6432,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/var/www/mailer2/mailers/basic/helper/RestApi.php",
-					"settings":
-					{
-						"buffer_size": 2611,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -2194,7 +2252,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 264.0,
+				"height": 368.0,
 				"last_filter": "add",
 				"selected_items":
 				[
@@ -2203,19 +2261,19 @@
 						"Project: Add Folder"
 					],
 					[
-						"add folder",
-						"Project: Add Folder"
+						"prett",
+						"HTMLPrettify"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"addd",
-						"Project: Add Folder"
+						"install ",
+						"Package Control: Install Package"
 					],
 					[
-						"git ",
+						"comm",
 						"Git: Commit"
 					],
 					[
@@ -2223,24 +2281,80 @@
 						"Git: Add..."
 					],
 					[
-						"git commit",
+						"git comm",
 						"Git: Commit"
 					],
 					[
-						"git comm",
+						"commit",
 						"Git: Commit"
+					],
+					[
+						"git .",
+						"Git: Add..."
+					],
+					[
+						"add folder",
+						"Project: Add Folder"
+					],
+					[
+						"repl n",
+						"SublimeREPL: Node"
 					],
 					[
 						"git",
 						"Git: Commit"
 					],
 					[
-						"conso",
-						"Set Syntax: R Console"
+						"git commit",
+						"Git: Commit"
 					],
 					[
-						"install ",
-						"Package Control: Install Package"
+						"git ad",
+						"Git: Add..."
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Commit"
+					],
+					[
+						"git cmmit",
+						"Git: Commit"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"gitcomm",
+						"Git: Commit"
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"repl",
+						"SublimeREPL: PHP"
+					],
+					[
+						"repl ph",
+						"SublimeREPL: PHP"
+					],
+					[
+						"addd",
+						"Project: Add Folder"
+					],
+					[
+						"conso",
+						"Set Syntax: R Console"
 					],
 					[
 						"reind",
@@ -2267,15 +2381,7 @@
 						"phpfmt: format now"
 					],
 					[
-						"comm",
-						"Git: Commit"
-					],
-					[
 						"co",
-						"Git: Commit"
-					],
-					[
-						"commit",
 						"Git: Commit"
 					],
 					[
@@ -2299,10 +2405,6 @@
 						"Javascript Beautify"
 					],
 					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
 						"git ocmm",
 						"Git: Commit"
 					],
@@ -2315,20 +2417,12 @@
 						"Git: Diff Tool Current File"
 					],
 					[
-						"html",
-						"HTMLPrettify"
-					],
-					[
 						"js ",
 						"Javascript Beautify"
 					],
 					[
 						"update",
 						"SVN: Update"
-					],
-					[
-						"commi",
-						"SVN: Commit…"
 					],
 					[
 						"svn update",
@@ -2371,7 +2465,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 530.0
+				"width": 498.0
 			},
 			"console":
 			{
@@ -2393,15 +2487,113 @@
 			},
 			"expanded_folders":
 			[
-				"/var/www/mailer2/mailers",
-				"/var/www/mailer2/mailers/basic",
-				"/var/www/mailer2/mailers/basic/commands",
-				"/var/www/mailer2/mailers/basic/helper",
-				"/var/www/mailer2/mailers/basic/views",
-				"/var/www/mailer2/mailers/basic/views/site"
+				"/var/www/alexcrm",
+				"/var/www/alexcrm/basic",
+				"/var/www/alexcrm/basic/config"
 			],
 			"file_history":
 			[
+				"/tmp/fz3temp-1/index 2.html",
+				"/tmp/fz3temp-1/index 3.html",
+				"/var/www/alexcrm/basic/config/db.php",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/controllers/stories.client.controller.js",
+				"/tmp/fz3temp-1/index.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/my-points.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/uploadDemo2-story.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/edit-tour-stories.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/lib/bootstrap/js/modal.js",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/stories/views/create-story.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/views/modal-add-tour.tours.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/views/demo-view-tour.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/views/edit-tour-stories.client.view.html",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/tours/controllers/tours.client.controller.js",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/companies/controllers/companies.client.controller.js",
+				"/home/greshnik/work/canogle/canogle/pointApp/public/modules/users/controllers/settings.client.controller.js",
+				"/var/www/prostorad/prostorad/admin/pages/editvideo.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitle.php",
+				"/var/www/prostorad/prostorad/admin/pages/editform.php",
+				"/home/greshnik/Tmp/landing2/js/main.js",
+				"/home/greshnik/Tmp/landing2/css/custom.css",
+				"/home/greshnik/Tmp/landing2/index.html",
+				"/var/www/prostorad/prostorad/admin/orders/phpSocket/nohup.out",
+				"/var/www/prostorad/prostorad/sys/db/migrations/005_create_table_reason.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/OrderItem.php",
+				"/var/www/prostorad/prostorad/admin/orders/call.php",
+				"/var/www/prostorad/prostorad/admin/orders/add_order.php",
+				"/var/www/prostorad/prostorad/admin/orders/setname.php",
+				"/var/www/prostorad/prostorad/admin/orders/socket/index.js",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitleFactory.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/DBQueryResult.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/OrderFactory.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Order.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbObject.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbObjectInterface.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Stats/SaleStats.php",
+				"/var/www/prostorad/prostorad/admin/orders/rows_display.php",
+				"/var/www/prostorad/prostorad/admin/orders/index.php",
+				"/var/www/prostorad/prostorad/admin/orders/emails.php",
+				"/var/www/prostorad/prostorad/sys/db/migrations/004.php",
+				"/var/www/prostorad/prostorad/admin/stats/index.php",
+				"/var/www/prostorad/prostorad/blocks/Landing/landing.html.twig",
+				"/var/www/prostorad/prostorad/code/inc/pages/zavorazhivajushhie-professionalnye-fejerverki-i-ognennye-shou.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing/Landings/Svadba2.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/vse-neobhodimoe-k-svadbe.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/originalnye-korporativnye-podarki-i-luchshie-pozdravlenija-kolleg.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-jubileev-godovshhin-svadby-prazdnikov.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/talantlivejshie-muzykanty-na-prazdnik.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/luchshie-aktjory-i-animatory-mimy-rostovye-kukly-hadulisty-klouny.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/oformlenie-prazdnikov-vozdushnymi-sharami.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-luchshih-fleshmobov.inc.php",
+				"/var/www/prostorad/prostorad/admin/pages/delvideo.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/krasivo-poprosit-proshhenija-i-pomiritsja.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-krasivoj-vypiski-iz-roddoma.inc.php",
+				"/var/www/prostorad/prostorad/sys/cron/daily/4-updateVideosTitles.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/luchshie-pozdravlenija-s-dnjom-rozhdenija.inc.php",
+				"/var/www/prostorad/prostorad/code/inc/assets/css/css/_layout.scss",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/PageFactory.php",
+				"/var/www/prostorad/prostorad/admin/pages/edit.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-sjurprizov.inc.php",
+				"/var/www/prostorad/prostorad/css/prostorad.css",
+				"/var/www/prostorad/prostorad/app.php",
+				"/var/www/prostorad/prostorad/code/feedback.php",
+				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/tmp/fz3temp-1/index.php",
+				"/tmp/fz3temp-1/style 2.css",
+				"/tmp/fz3temp-1/template 2.php",
+				"/tmp/fz3temp-1/detail.php",
+				"/tmp/fz3temp-1/style.css",
+				"/tmp/fz3temp-1/template.php",
+				"/tmp/fz3temp-1/result_modifier.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing/Landings/Rozygrysh.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/video-podarok-professionalnyj-film.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/romanticheskoe-svidanie-na-luchshih-kryshah-moskvy.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/nadpisi-na-peske.php",
+				"/var/www/prostorad/prostorad/code/inc/prostorad/Formats.php",
+				"/var/www/prostorad/prostorad/admin/pages/videoposition.php",
+				"/var/www/prostorad/prostorad/code/inc/pages/nadpisi-na-peske.inc.php",
+				"/var/www/alexcrm/basic/models/Landing.php",
+				"/var/www/alexcrm/basic/models/Order.php",
+				"/var/www/alexcrm/basic/migrations/m150713_125644_add_order_delivery_price_column.php",
+				"/var/www/alexcrm/basic/views/order/index.php",
+				"/var/www/alexcrm/basic/views/landing/_form.php",
+				"/var/www/alexcrm/basic/views/landing/view.php",
+				"/var/www/alexcrm/basic/views/order/_form.php",
+				"/var/www/alexcrm/basic/views/order/view.php",
+				"/var/www/alexcrm/basic/migrations/m150713_122124_add_landing_price_column.php",
+				"/var/www/alexcrm/basic/migrations/m150702_201412_create_landing_table.php",
+				"/var/www/alexcrm/basic/controllers/OrderController.php",
+				"/var/www/alexcrm/basic/migrations/m150702_201445_create_order_table.php",
+				"/var/www/alexcrm/basic/migrations/m150713_104140_add_type_order_column.php",
+				"/var/www/dle/upload/logg",
+				"/var/www/dle/upload/engine/modules/addcomments.php",
+				"/var/www/dle/upload/engine/ajax/addcomments.php",
+				"/var/www/dle/upload/engine/classes/parse.class.php",
+				"/var/www/dle/upload/engine/inc/addnews.php",
+				"/var/www/dle/upload/engine/modules/antibot/antibot.php",
+				"/home/greshnik/Tmp/alumtemp/pleksi/index.php",
+				"/var/www/mailer2/mailers/basic/helper/RestApi.php",
 				"/var/www/prostoapp/basic/views/directory/addService.php",
 				"/var/www/prostoapp/basic/helper/Direction.php",
 				"/var/www/prostoapp/basic/web/js/main.js",
@@ -2428,112 +2620,11 @@
 				"/var/www/prostoapp/basic/migrations/m150630_143001_create_service_table.php",
 				"/var/www/prostoapp/basic/migrations/m150709_071037_create_direction_table.php",
 				"/var/www/prostoapp/basic/migrations/m150709_071028_create_source_table.php",
-				"/var/www/prostoapp/basic/migrations/m150709_065711_create_sale_point_table.php",
-				"/var/www/prostoapp/basic/migrations/m150709_065128_create_call_type_table.php",
-				"/var/www/mailer2/mailers/basic/migrations/m150709_041818_create_backup_table.php",
-				"/var/www/mailer2/mailers/basic/commands/HelloController.php",
-				"/var/www/alexcrm/basic/helper/StatusHelper.php",
-				"/var/www/alexcrm/basic/migrations/m150702_201412_create_landing_table.php",
-				"/var/www/alexcrm/basic/models/Landing.php",
-				"/var/www/alexcrm/basic/views/landing/_form.php",
-				"/var/www/alexcrm/basic/controllers/LandingController.php",
-				"/var/www/alexcrm/basic/vendor/yiisoft/yii2/helpers/BaseUrl.php",
-				"/var/www/alexcrm/basic/config/web.php",
-				"/var/www/alexcrm/basic/config/db.php",
-				"/var/www/prostorad/prostorad/admin/engine.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/romanticheskoe-svidanie-na-luchshih-kryshah-moskvy.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/video-podarok-professionalnyj-film.php",
-				"/var/www/prostorad/prostorad/blocks/Landing/landing.html.twig",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/nadpisi-na-peske.php",
-				"/var/www/prostorad/prostorad/blocks/Landing/videos.html.twig",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitleFactory.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Landing.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Widget/CWidget.php",
-				"/var/www/prostorad/prostorad/admin/pages/editform.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/YouTube/VideoTitle.php",
-				"/var/www/prostorad/prostorad/code/inc/vendor/anahkiasen/html-object/src/Traits/Helpers.php",
-				"/var/www/prostorad/prostorad/sys/db/migrations/004.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-i-provedenie-detskih-prazdnikov.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-sjurprizov.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/sjurprizy-i-originalnye-podarki-na-novyj-god-i-rozhdestvo.inc.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/var/www/prostorad/prostorad/admin/pages/editvideo.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Formats.php",
-				"/var/www/prostorad/prostorad/.gitignore",
-				"/var/www/prostorad/prostorad/code/inc/pages/krasivo-poprosit-proshhenija-i-pomiritsja.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-romanticheskih-i-neobychnyh-svidanij.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-krasivoj-vypiski-iz-roddoma.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/luchshie-pozdravlenija-s-dnjom-rozhdenija.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/organizacija-nezabyvaemogo-predlozhenija-ruki-i-serdca.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/pozdravlenie-na-asfalte.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/pozdravlenie-na-asfalte.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/romanticheskoe-svidanie-na-luchshih-kryshah-moskvy.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/nadpisi-na-peske.inc.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/PageFactory.php",
-				"/var/www/prostorad/prostorad/admin/pages/videoposition.php",
-				"/var/www/prostorad/prostorad/admin/pages/delvideo.php",
-				"/var/www/prostorad/prostorad/admin/pages/index.php",
-				"/var/www/prostorad/prostorad/admin/stats/uslugi.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/UslugaFactory.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/usluga.php",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/forms/photo.inc",
-				"/tmp/fz3temp-1/nginx.conf",
-				"/tmp/fz3temp-1/im_subscrider.conf",
-				"/tmp/fz3temp-1/s1.conf",
-				"/tmp/fz3temp-1/default",
-				"/tmp/fz3temp-1/push.conf",
-				"/tmp/fz3temp-1/pull 2.js",
-				"/tmp/fz3temp-1/bitrix.conf",
-				"/tmp/fz3temp-1/errors.conf",
-				"/tmp/fz3temp-1/pull.js",
-				"/var/www/prostorad/prostorad/app.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/tmp/fz3temp-1/update_system.php",
-				"/home/greshnik/.config/sublime-text-3/Packages/phpfmt/message",
-				"/home/greshnik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/var/www/prostorad/prostorad/admin/actionslog/rollback.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbObject.php",
-				"/var/www/prostorad/prostorad/blocks/admin/orders/footer.html.twig",
-				"/var/www/prostorad/prostorad/admin/pages/edit.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/DB/DbFactory.php",
-				"/var/www/prostorad/prostorad/sys/db/migrations/001.sql",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/R.php",
-				"/var/www/prostorad/prostorad/admin/utils/admin.css",
-				"/var/www/prostorad/prostorad/admin/pages/add.php",
-				"/var/www/prostorad/prostorad/code/autoComplateFields.php",
-				"/var/www/prostorad/prostorad/admin/pages/del.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/admin/mailform.prod.js",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/thirdparty/jquery-ui.min.js",
-				"/var/www/prostorad/prostorad/admin/ideas/datepicker.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/main.js",
-				"/var/www/prostorad/prostorad/admin/utils/js/sortable.js",
-				"/var/www/prostorad/prostorad/sys/db/migrations/003.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AutoCompleteController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/NoCacheRenderedPage.php",
-				"/var/www/prostorad/prostorad/sys/app/routes/main.yml",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Mail/MailTemplateController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/Opinions/MailOpinionsController.php",
-				"/var/www/prostorad/prostorad/code/inc/vendor/composer/autoload_classmap.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Admin/AdminRenderedPage.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi.js",
-				"/var/www/prostorad/prostorad/code/inc/pages/blocks/tabs/forms/zvonki.inc",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/autocomplete.js",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/autocomplete.coffee",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/AjaxController.php",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi/uslugi.js",
-				"/var/www/prostorad/prostorad/code/inc/assets/js/prostorad/uslugi/dostavka-cvetov.js",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Controller/BaseController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Otzyvy/VKOpinionsController.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/Order.php",
-				"/var/www/prostorad/prostorad/code/inc/prostorad/OrderFactory.php",
-				"/var/www/prostorad/prostorad/code/service-order.php",
-				"/var/www/prostorad/prostorad/admin/orders/index.php",
-				"/var/www/prostorad/prostorad/admin/utils/orders.css"
+				"/var/www/prostoapp/basic/migrations/m150709_065711_create_sale_point_table.php"
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 66.0
 			},
 			"find_in_files":
 			{
@@ -2550,6 +2641,96 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"/order/create",
+					"action=",
+					"method=\"POST\" action=\"/order/create\"",
+					"action=\"/cart\"",
+					"action=",
+					"form",
+					"action=",
+					"form",
+					"onsubmit",
+					"onsubmit=\"return cartTelCheck('widgetu1666_input', true, this, event);\"",
+					"onsubmit=\"return cartTelCheck('widgetu1633_input', true, this, event);\"",
+					"cartTelCheck",
+					"form",
+					"submit-btn NoWrap grpelem",
+					"Заказать Appl",
+					"осталось",
+					"Create a Story Point",
+					"updateUserCompany",
+					"'",
+					"<button>Post</button>",
+					"block",
+					"value-de",
+					"value",
+					"value-descri",
+					"value-description",
+					"value-des",
+					"getSelectQuery",
+					"getByValue",
+					"previousValue",
+					"povod",
+					"payMethodWindow",
+					"class=\"povod\"",
+					"payMethodWindow",
+					"function rg",
+					"items",
+					"searchfilter",
+					"occasion",
+					"JsonSerializable",
+					"povod",
+					"$povod",
+					"povod",
+					"povo",
+					"get_existingitems",
+					"povod",
+					"get_existingitems",
+					"povod",
+					"td class=\"povod\"",
+					"class=\"povod\"",
+					"td class=\"povod\"",
+					"<b>Повод</b>",
+					"admin/orders",
+					"$povod",
+					"occasions",
+					"Продаж по поводам",
+					"Лучшая организация Вашей свадьбы",
+					"countTopVideo",
+					"countVideo",
+					"main .single",
+					"videos",
+					"main .single",
+					"adminname",
+					"pageData",
+					"save",
+					"adminname",
+					"$lastMod->setTimestamp($lastmodtime);",
+					"product_name",
+					"videos",
+					"videosAfterText",
+					"video",
+					"landing.videos",
+					"videos",
+					"videosHtml",
+					"renderVideos",
+					"$videos",
+					"getByPage",
+					"viewVideo",
+					"VideoTitleFactory",
+					"Searching",
+					"PageFactory::getById",
+					"video_page",
+					"роз",
+					"CP1251",
+					"1251",
+					"$name",
+					"CN_HALT",
+					"$_REQUEST['skin']",
+					"member_id",
+					"keystring",
+					"getKeyString",
+					"rndval",
 					"getDirections",
 					"dropTable",
 					"findOn",
@@ -2587,97 +2768,7 @@
 					"$video =  new VideoTitle();",
 					"$temp->getNextVideo",
 					"$temp->getVideos",
-					"$temp =  new VideoTitle()",
-					"$temp",
-					"к: Видео подарок",
-					"cp-aq6ChiYE",
-					"GR_3_8HmTzQ",
-					"jv6tb4gGeM4",
-					"VideoTitle",
-					"Розы",
-					"Роз",
-					"Структура контентных страниц сайта",
-					"Заполните п",
-					"Заполните поля:",
-					"Access",
-					"add_header Access-Control-Allow-Origin *;",
-					"server",
-					"host",
-					"Структура контентных страниц сайта",
-					"VideoTitleFa",
-					"Formats",
-					"$lastmodtime",
-					"isExpired",
-					"lastmodtime",
-					"1_PRwd0d_7I",
-					"I6ZHHC9B_so",
-					" youTube",
-					"Ваше имя",
-					"getById",
-					"data-id",
-					"data-id\n",
-					"service_id",
-					"fromObjectToObject",
-					"Ваше имя\nВаше имя",
-					"videoTitles",
-					"video_titles",
-					"function store",
-					"function store ",
-					"function ]store ",
-					"store ",
-					"VideoTitle",
-					"insertId",
-					"get_title",
-					"fetchTitle",
-					"insertUpdateSave",
-					"lastFetched",
-					"insertUpdateSave",
-					"video_titles",
-					"jquery-ui.min.js",
-					"jquery-ui",
-					"L55cycnopW0",
-					"Formats::youTube",
-					"123123123131212321",
-					"123123",
-					"123123123131212321",
-					"Название2",
-					"hiddencontent",
-					"divname",
-					"Название для админки",
-					"<ul class=\"videos\">",
-					"NoCacheRenderedPage",
-					"AdminRenderedPage",
-					"AjaxController",
-					"RenderedPage",
-					"RenderedResponse",
-					"VKOpinionsController",
-					"$request",
-					"window.autocomplete",
-					"$_SESSION['autocomplate']",
-					"__name",
-					"__tel",
-					"__pname",
-					"hrtdu767ii",
-					"addChar",
-					"Имя человека, которому звоним",
-					"Заполните поля",
-					"processRegionChange",
-					"regionselectedorder",
-					"cityinput",
-					"phpSocket",
-					"options.city",
-					"options.orderId",
-					"Session.prototype.publish",
-					"publish ",
-					"cityinput",
-					"saveCityField",
-					"rd(",
-					"rt(",
-					"ordertypeselect",
-					"saveCityField",
-					"citysave",
-					"rg(",
-					"wrapp"
+					"$temp =  new VideoTitle()"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2685,6 +2776,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"method=\"POST\" action=\"/order/create\"",
+					"  ",
+					" ",
 					"$video =  new VideoTitleFactory();",
 					"$video->getNextVideo",
 					"$video->getVideos",
@@ -2704,200 +2798,14 @@
 			"folders":
 			[
 				{
-					"path": "/var/www/mailer2/mailers"
+					"path": "/var/www/alexcrm"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/var/www/mailer2/mailers/basic/commands/MailerController.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6432,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1664,
-										1664
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 714.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/var/www/mailer2/mailers/basic/helper/RestApi.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2611,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										995,
-										995
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -2945,11 +2853,11 @@
 				"height": 112.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,2158,330,2798,782,3520,1080",
+			"position": "0,0,0,0,0,2086,285,2726,765,3520,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 118.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2958,6 +2866,254 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"db.",
+						"basic/config/db.php"
+					],
+					[
+						"stormodal",
+						"pointApp/public/modules/tours/views/modal-add-tour.tours.client.view.html"
+					],
+					[
+						"modal",
+						"pointApp/public/lib/bootstrap/js/modal.js"
+					],
+					[
+						"storihtml",
+						"pointApp/public/modules/stories/views/create-story.client.view.html"
+					],
+					[
+						"storcontroller",
+						"pointApp/public/modules/stories/controllers/stories.client.controller.js"
+					],
+					[
+						"compancontroll",
+						"pointApp/public/modules/companies/controllers/companies.client.controller.js"
+					],
+					[
+						"companies",
+						"pointApp/public/modules/companies/controllers/companies.client.controller.js"
+					],
+					[
+						"point.contr",
+						"pointApp/public/modules/stories/controllers/stories.client.controller.js"
+					],
+					[
+						"tourcontroller",
+						"pointApp/public/modules/tours/controllers/tours.client.controller.js"
+					],
+					[
+						"videotitle",
+						"code/inc/prostorad/YouTube/VideoTitle.php"
+					],
+					[
+						"editv",
+						"admin/pages/editvideo.php"
+					],
+					[
+						"main",
+						"basic/web/js/main.js"
+					],
+					[
+						"005",
+						"sys/db/migrations/005_create_table_reason.php"
+					],
+					[
+						"orderitem",
+						"code/inc/prostorad/OrderItem.php"
+					],
+					[
+						"ordereditmanager",
+						"code/inc/prostorad/Admin/Socket/OrderEditManager.php"
+					],
+					[
+						"phpsocket/daemon.php",
+						"admin/orders/phpSocket/daemon.php"
+					],
+					[
+						"dbqueryresult",
+						"code/inc/prostorad/DBQueryResult.php"
+					],
+					[
+						"dbobjectinterface",
+						"code/inc/prostorad/DB/DbObjectInterface.php"
+					],
+					[
+						"dbobject",
+						"code/inc/prostorad/DB/DbObject.php"
+					],
+					[
+						"videotitl",
+						"code/inc/prostorad/YouTube/VideoTitleFactory.php"
+					],
+					[
+						"order",
+						"code/inc/prostorad/Order.php"
+					],
+					[
+						"videotitlefactory",
+						"code/inc/prostorad/YouTube/VideoTitleFactory.php"
+					],
+					[
+						"orderf",
+						"code/inc/prostorad/OrderFactory.php"
+					],
+					[
+						"004",
+						"sys/db/migrations/004.php"
+					],
+					[
+						"rows_display.php",
+						"admin/orders/rows_display.php"
+					],
+					[
+						"salestats",
+						"code/inc/prostorad/Admin/Stats/SaleStats.php"
+					],
+					[
+						"ognennye",
+						"code/inc/pages/zavorazhivajushhie-professionalnye-fejerverki-i-ognennye-shou.inc.php"
+					],
+					[
+						"lan",
+						"blocks/Landing/landing.html.twig"
+					],
+					[
+						"svadby",
+						"code/inc/pages/organizacija-jubileev-godovshhin-svadby-prazdnikov.inc.php"
+					],
+					[
+						"neobhodimoe",
+						"code/inc/pages/vse-neobhodimoe-k-svadbe.inc.php"
+					],
+					[
+						"kolleg",
+						"code/inc/pages/originalnye-korporativnye-podarki-i-luchshie-pozdravlenija-kolleg.inc.php"
+					],
+					[
+						"vozd",
+						"code/inc/pages/oformlenie-prazdnikov-vozdushnymi-sharami.inc.php"
+					],
+					[
+						"muzy",
+						"code/inc/pages/talantlivejshie-muzykanty-na-prazdnik.inc.php"
+					],
+					[
+						"animatory",
+						"code/inc/pages/luchshie-aktjory-i-animatory-mimy-rostovye-kukly-hadulisty-klouny.inc.php"
+					],
+					[
+						"fleshmobov",
+						"code/inc/pages/organizacija-luchshih-fleshmobov.inc.php"
+					],
+					[
+						"land",
+						"code/inc/prostorad/Landing.php"
+					],
+					[
+						"landing",
+						"blocks/Landing/landing.html.twig"
+					],
+					[
+						"proshhenija",
+						"code/inc/pages/krasivo-poprosit-proshhenija-i-pomiritsja.inc.php"
+					],
+					[
+						"roddoma",
+						"code/inc/pages/organizacija-krasivoj-vypiski-iz-roddoma.inc.php"
+					],
+					[
+						"-rozh",
+						"code/inc/pages/luchshie-pozdravlenija-s-dnjom-rozhdenija.inc.php"
+					],
+					[
+						"editfo",
+						"admin/pages/editform.php"
+					],
+					[
+						"4-",
+						"sys/cron/daily/4-updateVideosTitles.php"
+					],
+					[
+						"landin",
+						"code/inc/prostorad/Landing.php"
+					],
+					[
+						"prost",
+						"css/prostorad.css"
+					],
+					[
+						"pagefactory",
+						"code/inc/prostorad/PageFactory.php"
+					],
+					[
+						"organizacija-sjurprizov",
+						"code/inc/pages/organizacija-sjurprizov.inc.php"
+					],
+					[
+						"code/feedback.php",
+						"code/feedback.php"
+					],
+					[
+						"admin/pages/edit.php",
+						"admin/pages/edit.php"
+					],
+					[
+						"code/inc/assets/js/admin/orders.js",
+						"code/inc/assets/js/admin/orders.js"
+					],
+					[
+						"admin/orders.js",
+						"code/inc/assets/js/admin/orders.js"
+					],
+					[
+						"predlozhenija",
+						"code/inc/pages/organizacija-nezabyvaemogo-predlozhenija-ruki-i-serdca.inc.php"
+					],
+					[
+						"roz",
+						"code/inc/prostorad/Landing/Landings/Rozygrysh.php"
+					],
+					[
+						"formats",
+						"code/inc/prostorad/Formats.php"
+					],
+					[
+						"position",
+						"admin/pages/videoposition.php"
+					],
+					[
+						"vide",
+						"code/inc/prostorad/YouTube/VideoTitle.php"
+					],
+					[
+						"nadpisi-na-peske",
+						"code/inc/pages/nadpisi-na-peske.inc.php"
+					],
+					[
+						"price",
+						"basic/migrations/m150713_125644_add_order_delivery_price_column.php"
+					],
+					[
+						"landi",
+						"basic/models/Landing.php"
+					],
+					[
+						"type_order",
+						"basic/migrations/m150713_104140_add_type_order_column.php"
+					],
+					[
+						"parse.class.php",
+						"engine/classes/parse.class.php"
+					],
+					[
+						"addcomments.php",
+						"engine/modules/addcomments.php"
+					],
+					[
+						"antibot",
+						"engine/modules/antibot/antibot.php"
+					],
 					[
 						"mailer",
 						"basic/commands/MailerController.php"
@@ -3003,10 +3159,6 @@
 						"basic/migrations/m150709_041818_create_backup_table.php"
 					],
 					[
-						"order",
-						"basic/models/Order.php"
-					],
-					[
 						"baseurl",
 						"basic/vendor/yiisoft/yii2/helpers/BaseUrl.php"
 					],
@@ -3015,24 +3167,8 @@
 						"basic/views/landing/_form.php"
 					],
 					[
-						"land",
-						"basic/models/Landing.php"
-					],
-					[
-						"dbobject",
-						"code/inc/prostorad/DB/DbObject.php"
-					],
-					[
 						"engine",
 						"admin/engine.php"
-					],
-					[
-						"formats",
-						"code/inc/prostorad/Formats.php"
-					],
-					[
-						"videotitle",
-						"code/inc/prostorad/YouTube/VideoTitle.php"
 					],
 					[
 						"editvideo",
@@ -3041,10 +3177,6 @@
 					[
 						"landing.html.twig",
 						"blocks/Landing/landing.html.twig"
-					],
-					[
-						"videotitlefactory",
-						"code/inc/prostorad/YouTube/VideoTitleFactory.php"
 					],
 					[
 						"landing.php",
@@ -3099,10 +3231,6 @@
 						"sys/db/migrations/004.php"
 					],
 					[
-						"004",
-						"sys/db/migrations/004.php"
-					],
-					[
 						"detskih-prazdnikov",
 						"code/inc/pages/organizacija-i-provedenie-detskih-prazdnikov.inc.php"
 					],
@@ -3149,10 +3277,6 @@
 					[
 						"nadpisi",
 						"code/inc/pages/nadpisi-na-peske.inc.php"
-					],
-					[
-						"pagefactory",
-						"code/inc/prostorad/PageFactory.php"
 					],
 					[
 						"uslugi.php",
@@ -3253,222 +3377,6 @@
 					[
 						"treenodefabric",
 						"basic/helper/TreeNodeFabric.php"
-					],
-					[
-						"pers",
-						"basic/models/PersonRole.php"
-					],
-					[
-						"create_f",
-						"basic/migrations/m150616_075738_create_folder_table.php"
-					],
-					[
-						"create",
-						"basic/migrations/m150622_190416_create_table_peronRole.php"
-					],
-					[
-						"main.sj",
-						"basic/web/js/main.js"
-					],
-					[
-						"direct",
-						"basic/controllers/DirectoryController.php"
-					],
-					[
-						"directo",
-						"basic/models/Directory.php"
-					],
-					[
-						"folder",
-						"basic/models/Folder.php"
-					],
-					[
-						"call",
-						"basic/controllers/CallController.php"
-					],
-					[
-						"site",
-						"basic/controllers/SiteController.php"
-					],
-					[
-						"calls",
-						"basic/models/Calls.php"
-					],
-					[
-						"main",
-						"basic/views/layouts/main.php"
-					],
-					[
-						"folder_table",
-						"basic/migrations/m150616_075738_create_folder_table.php"
-					],
-					[
-						"create_d",
-						"basic/migrations/m150616_074016_create_directory_table.php"
-					],
-					[
-						"lay",
-						"basic/views/layouts/main.php"
-					],
-					[
-						"contra",
-						"basic/migrations/m150608_140327_create_contract_table.php"
-					],
-					[
-						"sample_ta",
-						"basic/migrations/m150608_132020_create_sample_table.php"
-					],
-					[
-						"create_ca",
-						"basic/migrations/m150605_125121_create_call_table.php"
-					],
-					[
-						"layouts",
-						"basic/views/layouts/main.php"
-					],
-					[
-						"migration",
-						"basic/migrations/m150604_133355_create_user_table.php"
-					],
-					[
-						"mailers",
-						"basic/views/site/mailers.php"
-					],
-					[
-						"index",
-						"basic/views/site/index.php"
-					],
-					[
-						"addmailer",
-						"basic/views/site/addmailer.php"
-					],
-					[
-						"email",
-						"basic/models/Emails.php"
-					],
-					[
-						"web",
-						"basic/config/web.php"
-					],
-					[
-						"templatef",
-						"basic/models/TemplateForm.php"
-					],
-					[
-						"templates",
-						"basic/models/Templates.php"
-					],
-					[
-						"tempalte",
-						"basic/models/Templates.php"
-					],
-					[
-						"templateform",
-						"basic/models/TemplateForm.php"
-					],
-					[
-						"add",
-						"basic/views/site/addtemplate.php"
-					],
-					[
-						"addtem",
-						"basic/views/site/addtemplate.php"
-					],
-					[
-						"model/template",
-						"basic/models/Templates.php"
-					],
-					[
-						"template",
-						"basic/migrations/m150601_040226_template_text_field.php"
-					],
-					[
-						"acco",
-						"basic/models/Account.php"
-					],
-					[
-						"mail",
-						"basic/views/site/mailers.php"
-					],
-					[
-						"user",
-						"basic/models/User.php"
-					],
-					[
-						"todo",
-						"basic/vendor/ezyang/htmlpurifier/TODO"
-					],
-					[
-						"lo",
-						"basic/models/LoginForm.php"
-					],
-					[
-						"basic/web/css",
-						"basic/web/css/site.css"
-					],
-					[
-						"style",
-						"basic/vendor/ezyang/htmlpurifier/docs/style.css"
-					],
-					[
-						"commands/",
-						"basic/commands/RbacController.php"
-					],
-					[
-						"vars",
-						"vars.inc.php"
-					],
-					[
-						"styles",
-						"assets/styles/styles.css"
-					],
-					[
-						"api/ser",
-						"api/services/passport.js"
-					],
-					[
-						"services/passport",
-						"node_modules/sails-generate-auth/templates/api/services/passport.js"
-					],
-					[
-						"notifi",
-						"models/Notification.js"
-					],
-					[
-						"zakaz",
-						"protected/modules/project/controllers/ZakazController.php"
-					],
-					[
-						"fn_selfactions.sqf",
-						"temp/dayz_code/compile/fn_selfActions.sqf"
-					],
-					[
-						"send_and",
-						"bitrix/templates/aidentica/components/games/postman/.default/send_and_check.php"
-					],
-					[
-						"user_action",
-						"bitrix/php_interface/include/identica_api/user_action.php"
-					],
-					[
-						"jquery.incrementbox.js",
-						"bitrix/templates/aidentica/js/jquery.IncrementBox.js"
-					],
-					[
-						"partner",
-						"bitrix/templates/aidentica/css/partner.css"
-					],
-					[
-						"visit_brandjs",
-						"bitrix/templates/aidentica/components/games/visit_brand/.default/script.js"
-					],
-					[
-						"partner.css",
-						"bitrix/templates/aidentica/css/partner.css"
-					],
-					[
-						"style.css",
-						"templates/common/css/style.css"
 					]
 				],
 				"width": 0.0
@@ -3507,12 +3415,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 419.0,
+			"side_bar_width": 393.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 132,
+			"window_id": 160,
 			"workspace_name": ""
 		}
 	],
@@ -3520,6 +3428,9 @@
 	{
 		"recent_workspaces":
 		[
+			"/home/greshnik/sublimeProjects/freelancerNotify.sublime-workspace",
+			"/home/greshnik/sublimeProjects/dle.sublime-workspace",
+			"/home/greshnik/sublimeProjects/mailer.sublime-workspace",
 			"/home/greshnik/sailsapp.sublime-workspace"
 		]
 	}

@@ -6,7 +6,11 @@
 	[
 		"AngularJS",
 		"auto-save",
+		"Better CoffeeScript",
 		"BracketHighlighter",
+		"CTags",
+		"Devastate",
+		"DocBlockr",
 		"EJS",
 		"Git",
 		"Git Conflict Resolver",
@@ -15,16 +19,20 @@
 		"IntelliDocs",
 		"JavaScript & NodeJS Snippets",
 		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
 		"LiveStyle",
 		"Package Control",
 		"PHP Code Coverage",
 		"PHP Companion",
 		"PhpDoc",
 		"PlainTasks",
+		"Preap",
 		"SFTP",
 		"SideBarEnhancements",
+		"Sublime Bookmarks",
 		"SublimeCodeIntel",
 		"SublimeREPL",
-		"SVN"
+		"SVN",
+		"SyncedSideBar"
 	]
 }
